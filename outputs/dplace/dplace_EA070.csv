@@ -1,0 +1,1292 @@
+society_id,society_name,region,lat,lon,focal_year,EA070_code,EA070_label,comment,references
+Aa1,!Kung,,-20,21,1950,1,Absence of slavery,,biesele1972; biesele1975; biesele1976; draper1972; draper1975; drapernd; hansenetal1969; harpending1971; howell1979; howellnd; konner1971; konner1972; konner1973; konner1977; lee1966; lee1968; lee1972a; lee1974; lee1979; leeanddevore1976; marshall1956; marshall1957; marshall1957a; marshall1957b; marshall1958; marshall1959; marshall1960; marshall1961; marshall1962; marshall1965; marshall1976; marshallandmarshall1956; schapera1930; shostak1981; thomas1959; tobias1978
+Aa2,Dorobo,,0,36,1920,1,Absence of slavery,,huntingford1929; huntingford1942; huntingford1951; huntingford1953b; huntingford1954; huntingford1955a
+Aa3,Nama,,-26,18,1840,1,Absence of slavery,,hoernl1918; hoernl1925; kohler1970; murdock1934b:475-507; schapera1930; schultze1907
+Aa4,Bergdama,,-22,16,1920,2,"Slavery, nonhereditary",,lebzelter1934; schmidt1930; vedder1923
+Aa5,Mbuti,,2,28,1930,1,Absence of slavery,,deleeuwe1966; hart1978; putnam1948; turnbull1961; turnbull1965a; turnbull1965b; turnbull1965c; turnbull1983
+Aa6,Sandawe,,-5,36,1920,1,Absence of slavery,,dempwolff1916; huntingford1953b; kimmenade1936
+Aa7,Naron,,-20,24,1910,1,Absence of slavery,,bleek1924b; bleek1928; passarge1907; schapera1930
+Aa8,/Xam,,-30,23,1850,1,Absence of slavery,,barrow180104; bleek1924b; fritsch1872
+Aa9,Hadza,,-3,35,1910,1,Absence of slavery,,bleek1931b; kohllarsen1958; woodburn1964; woodburn1968a; woodburn1968b; woodburn1970
+Ab1,Herero,,-21,16,1900,4,"Slavery, hereditary",,irle1906; vedder1928
+Ab10,Pondo Xhosa,,-31,30,1936,1,Absence of slavery,,hunter1936
+Ab11,Xhosa Ngqika,,-32.89,27.91,1850,1,Absence of slavery,,borwnlee1927; kropf1889; soga1932
+Ab12,Zulu,,-29,31,1830,1,Absence of slavery,,bryant1949; gluckman1940; gluckman1950; krige1936; mahloboandkrige1934; schapera1937; vilakazi1962
+Ab13,Tswana,,-24,27,1880,1,Absence of slavery,,brown1926; dorman1935; duggancronin1929; livingstone1858; schapera1938; schapera1941; schapera1950; schapera1953; schpera1941
+Ab14,Lovedu,,-24,31,1930,1,Absence of slavery,,krigeandkrige1943
+Ab15,Pedi,,-25,30,1860,NA,Missing data,,
+Ab16,Lenge,,-25,34,1930,1,Absence of slavery,,earthy1933
+Ab17,Ndau,,-20,34,1920,3,"Slavery, no info on heritability",,boas1922; dossantos1901; herskovits1923
+Ab18,Shona,,-19,31,1920,3,"Slavery, no info on heritability",,bullock1928; holleman1952; kuper1955; prost1956; seed193233
+Ab19,Ambo,,-17,16,1910,4,"Slavery, hereditary",,krafft1914; lebzelter1935; loeb1962; tonejes1911
+Ab2,Swazi,,-27,32,1880,1,Absence of slavery,,kuper1950; kuper1974; marwick1940
+Ab20,Ngumbi,,-15,15,1880,3,"Slavery, no info on heritability",,wunenberger1888
+Ab21a,Kisama,,-10,14,1930,3,"Slavery, no info on heritability",,magyar1859; mattenklodt1944
+Ab21b,Bomvana,,-32.17,28.93,1925,NA,Missing data,,
+Ab22,Chopi,,-24.76,34.47,1920,NA,Missing data,,
+Ab3,Lozi,,-15,23,1890,4,"Slavery, hereditary",,bertrand1899; gluckman1941; gluckman1950; gluckman1951; gluckman1972; holub1895; mainga1973; turner1952
+Ab4,Tsonga,,-24,32,1920,1,Absence of slavery,,junod1927
+Ab5,Mbundu,,-12,16,1930,4,"Slavery, hereditary",,childs1949; duffy1959; edwards1962; hambly1934; mcculloch1952
+Ab6,Venda,,-23,30,1900,2,"Slavery, nonhereditary",,gottschling1905; stayt1931; warmelo1948; wessmann1908
+Ab7,Nyaneka,,-15,14,1920,3,"Slavery, no info on heritability",,langandtastevin1937
+Ab8,Sotho,,-29,28,1860,1,Absence of slavery,,ashton1952; casilis1859; dutton1923; krige1937; mabille1906; martin1903; sheddick1953
+Ab9,Ndebele,,-20,28,1870,1,Absence of slavery,,hughesandvanvelsen1955; jackson192627; thomas1872
+Ac1,Ila,,-16,27,1920,4,"Slavery, hereditary",,smithanddale1920; tudennd
+Ac10,Chewa,,-14,33,1920,3,"Slavery, no info on heritability",,bruwer1949; bruwer1955; hodgson1933; marwick1952; ntara1934; read1938; richards1950; tew1950
+Ac11,Luvale,,-12,22,1930,4,"Slavery, hereditary",,mcculloch1951; white1955
+Ac12,Chokwe,,-10,21,1920,3,"Slavery, no info on heritability",,baumann1935; jaspertandjaspert1930; mcculloch1951; tordayandjoyce1922
+Ac13,Tonga,,-12,34,1950,4,"Slavery, hereditary",,tew1950; velsen1964
+Ac14,Bakongo,,-7,15,1900,4,"Slavery, hereditary",,brown1944; bruyns1951; czekanowski1924:21-110; ihle1929; kapstein1922; mertens1942; vanwing1921; weeks1914
+Ac15,Mbala,,-5,18,1900,4,"Slavery, hereditary",,tordayandjoyce1905; tordayandjoyce1907; tordayandjoyce1922:227-359
+Ac16,Mitsogho,,-1,12,1940,4,"Slavery, hereditary",,balandier1952; maclatchy1945
+Ac17,Suku,,-6,18,1910,2,"Slavery, nonhereditary",,holemans1959; kopytoff1961; kopytoff1964; kopytoff1965; kopytoff1971; kopytoff1977; tordayandjoyce1906; vandeginste1947
+Ac18,Sundi,,-5,14,1910,2,"Slavery, nonhereditary",,even1931; hutereau1910b; laman1953; soret1959
+Ac19,Teke,,-3,15,1880,3,"Slavery, no info on heritability",,badier1929; descazes1885; guiral1886; trezenem1940
+Ac2,Pende,,-6,20,1920,3,"Slavery, no info on heritability",,sousberghe1955; tordayandjoyce1922:corrigenda-to-table-1
+Ac20,Yaka,,-7,17,1920,4,"Slavery, hereditary",,milheiros1956; plancquaert1932; tordayandjoyce1906
+Ac21,Bunda,,-5,19,1910,2,"Slavery, nonhereditary",,decker1942; torday1910; weekx1937
+Ac22,Dzing,,-4,20,1930,3,"Slavery, no info on heritability",,mertens1935
+Ac23,Lele,,-5,21,1950,3,"Slavery, no info on heritability",,douglas1952; douglas1962; douglas1963; tew1951; vansina1954b
+Ac24,Sakata,,-3,18,1910,4,"Slavery, hereditary",,baeyens1913; denis1935; maes1924; viaeneandbernard190910
+Ac25,Songo,,-5,18,1930,4,"Slavery, hereditary",,beaucorps1921; beaucorps1951; richards1950
+Ac26,Yanzi,,-4,18,1920,4,"Slavery, hereditary",,beaucorps1933; tordayandjoyce1922
+Ac27,Luchazi,,-13,23,1930,NA,Missing data,,
+Ac28,Luimbe,,-12,18,1930,NA,Missing data,,
+Ac29,Luwa,,-7,19,1930,3,"Slavery, no info on heritability",,brau1942
+Ac3,Bemba,,-11,31,1900,2,"Slavery, nonhereditary","Entry follows Richards; earlier sources report hereditary slavery (code ""4"")",delhaise1908; gouldsburyandsheane1911; richards1939; richards1940a; richards1940b; richards1948; richards1950; richards1951; richards1956; richards1968; richards1971; richardsandtardits1974; tardits1974
+Ac30,Plateau Tonga,,-18,28,1940,2,"Slavery, nonhereditary",,allanetal1948; colson1950; colson1951; colson1960; jaspan1953
+Ac31,Buye,,-7,28,1910,3,"Slavery, no info on heritability",,colle1913
+Ac32,Kaonde,,-13,26,1920,3,"Slavery, no info on heritability",,melland1923; watson1954a
+Ac33,Lala,,-15,31,1940,4,"Slavery, hereditary",,lambo1946; munday1941; whiteley1951
+Ac34,Luapula,,-10,29,1940,3,"Slavery, no info on heritability",,cunnison1950; cunnison1959; gamitto1854; slaski1951
+Ac35,Shila,,-10,28,1900,4,"Slavery, hereditary",,brohez1905; marchal1935
+Ac36,Tumbuka,,-12,34,1920,2,"Slavery, nonhereditary",,sanderson1923; tew1950; young1931
+Ac37,Kunda,,-15,32,1950,NA,Missing data,,
+Ac38,Nyanja,,-16,36,1910,4,"Slavery, hereditary",,malekebu1952; stannus1910; tew1950; werner1906b
+Ac39,Nyasa,,-13,35,1920,4,"Slavery, hereditary",,johnson1922; tew1950
+Ac4,Kuba,,-5,22,1910,4,"Slavery, hereditary",,tordayandjoyce1910; vansina1954a; vansina1962
+Ac40,Sena,,-18,35,1900,3,"Slavery, no info on heritability",,maugham1910; menteirolopez1906; schebesta1926
+Ac41,Makonde,,-11,40,1900,3,"Slavery, no info on heritability",,behr1893; weule1908
+Ac42,Makua,,-15,39,1900,3,"Slavery, no info on heritability",,tew1950; weule1908
+Ac43,Mambwe,,9,32,1910,NA,Missing data,,
+Ac5,Lamba,,-13,28,1920,3,"Slavery, no info on heritability",,doke1931; mitchellandbarnes1950
+Ac6,Ndembu,,-11,26,1930,3,"Slavery, no info on heritability",,baumann1935; chook1967; mcculloch1951; turner1957; turner1966
+Ac7,Yao,,-13,36,1920,4,"Slavery, hereditary",,lawson1949; mitchell1949; mitchell1956; sanderson1920; stannus1922
+Ac8,Yombe,,-5,13,1930,2,"Slavery, nonhereditary",,decleene1937a; decleene1937b; deleval1912; vanoverbergh1907b; vanreeth1935
+Ac9,Ngoni,,-12,33,1940,2,"Slavery, nonhereditary",,barnes1951; barnes1954; mead1960; tew1950
+Ad1,Bajuni,,-2,41,1950,4,"Slavery, hereditary",,grottanelli1955
+Ad10,Shambaa,,-5,38,1910,4,"Slavery, hereditary",,eichhorn191124; lang1903; warburg1894; winans1962; wohlrab1918
+Ad11,Bena,,-9,36,1930,4,"Slavery, hereditary",,culwickandculwick1935
+Ad12,Gusii,,-1,35,1940,NA,Missing data,,
+Ad13,Kiga,,-3,30,1930,2,"Slavery, nonhereditary",,edel1937; edel1957; taylor1962
+Ad14,Luguru,,-8,38,1930,3,"Slavery, no info on heritability",,beidelman1967; brain1969; christensen1963; mcvicarnd; mluanda1971; scheerderandtastevin1950; youngandfosbrooke1960
+Ad15,Iwa,,-10,32,1900,2,"Slavery, nonhereditary",,chisholm1910; coxhead1914; willis1966; wilson1958
+Ad16,Ngonde,,-10,34,1920,2,"Slavery, nonhereditary",,mackenzie1925; sanderson1923; tew1950
+Ad17,Safwa,,-8,33,1920,2,"Slavery, nonhereditary",,kootzkretschmer192629
+Ad18,Bende,,-7,31,1910,2,"Slavery, nonhereditary",,avon191516; majerus191516
+Ad19,Fipa,,-8,31,1910,3,"Slavery, no info on heritability",,fromm1912; popplewell1937; willis1966
+Ad2,Nyoro,,2,32,1950,4,"Slavery, hereditary",,beattie1960; beattie1965; richards1960b; roscoe1923a; taylor1962
+Ad20,Nyamwezi,,-5,33,1920,2,"Slavery, nonhereditary",,blohm193133; bosch1930; spellig1927
+Ad21,Pimbwe,,-7,31,1930,3,"Slavery, no info on heritability",,maurice193538
+Ad22,Sukuma,,-3,34,1950,3,"Slavery, no info on heritability",,abrahams1967; cory1953; malcolm1953
+Ad23,Sangu,,-8,34,1910,3,"Slavery, no info on heritability",,heese1913; mumford1934
+Ad24,Gogo,,-7,36,1910,2,"Slavery, nonhereditary",,claus1911; paulssen1922; rigby1966; schaegelen1938
+Ad25,Rangi,,-5,36,1900,3,"Slavery, no info on heritability",,baumstark1900; gray1953; kannenberg1900
+Ad26,Turu,,-5,34,1910,1,Absence of slavery,,sick1916
+Ad27,Kwere,,-7,39,1880,3,"Slavery, no info on heritability",,picarda1886; reidelman1967
+Ad28,Zigula,,-5.84,38.79,1880,4,"Slavery, hereditary",,baumann1891; beidelman1967; picarda1886
+Ad29,Hadimu,,-6.07,39.43,1930,4,"Slavery, hereditary",,ingrams1930; prins1961
+Ad3,Chagga,,-3,37,1910,1,Absence of slavery,,abbott1892; dundas1924; gutmann1913; gutmann1926; raum1940; stahl1964
+Ad30,Digo,,-4,39,1890,3,"Slavery, no info on heritability",,baumann1891; prins1952; stpaulhilaire1895
+Ad31,Duruma,,-4,39,1910,3,"Slavery, no info on heritability",,prins1952; werner1915
+Ad32,Giriama,,-3,40,1900,2,"Slavery, nonhereditary",,barrett1911b; johnstone1902; princs1952
+Ad33,Pokomo,,-1,40,1900,2,"Slavery, nonhereditary",,fischer187879; kraft1903; prins1952; werner1913
+Ad34,Kamba,,-2,38,1910,3,"Slavery, no info on heritability",,dundas1915; hildebrandt1878; lindblom1916; middleton1953; penwill1951
+Ad35,Meru,,0,35,1940,3,"Slavery, no info on heritability",,holding1942; lambert1956; middleton1953
+Ad36,Pare,,-4,38,1890,4,"Slavery, hereditary",,baumann1891; storch1895
+Ad37,Teita,,-4,39,1940,1,Absence of slavery,,bostock1950; prins1950; prins1952
+Ad38,Kara,,-2,33,1910,1,Absence of slavery,,paterson1956; paulssen1914; thorntonandrounce1936
+Ad39,Sonjo,,-3,36,1950,1,Absence of slavery,,gray1963
+Ad4,Kikuyu,,-1,37,1930,1,Absence of slavery,,cagnolo1933; hailey1950; kenyatta1939; lambert1950; lambert1956; leakey1952; leakey1977; macphee1968; middleton1953; ross1968; routledgeandroutledge1910; tignor1976
+Ad40,Tiriki,,0,35,1950,NA,Missing data,,
+Ad41,Vugusu,,1,35,1930,NA,Missing data,,
+Ad42,Haya,,-1,32,1900,2,"Slavery, nonhereditary",,autenrieth1908; cesard193537; coryandhartnoll1945; rehse1910; taylor1962; weiss1926
+Ad43,Kerewe,,-3,33,1900,4,"Slavery, hereditary",,hurel1911
+Ad44,Konjo,,-1,30,1920,NA,Missing data,,
+Ad45,Nyankole,,0,31,1920,2,"Slavery, nonhereditary",,oberg1938; oberg1940; roscoe1923b; taylor1962
+Ad46,Soga,,1,33,1950,4,"Slavery, hereditary",,fallers1956; fallers1960; roscoe1915
+Ad47,Sumbwa,,-4,32,1900,4,"Slavery, hereditary",,abrahams1967; blohm193133; desoignies1903
+Ad48,Toro,,1,31,1950,3,"Slavery, no info on heritability",,taylor1962
+Ad49,Zinza,,-3,31,1950,4,"Slavery, hereditary",,taylor1962
+Ad5,Mbugwe,,-4,36,1940,1,Absence of slavery,,graynd
+Ad50,Kaguru,,-6,37,1900,3,"Slavery, no info on heritability",,beidelman1967
+Ad51,Ngulu,,-6,38,1930,3,"Slavery, no info on heritability",,beidelman1967; mcvicar1934
+Ad6,Nyakyusa,,-9,34,1930,2,"Slavery, nonhereditary",,charsleyandmckenny1974; lehmann1951; mckenny1973; wilson1936; wilson1938; wilson1951a; wilson1951b; wilson1957; wilson1959; wilson1977
+Ad7,Ganda,,1,32,1880,4,"Slavery, hereditary",,fallers1960; kagwa1934; kottack1972; lugira1970; mair1934; malysevand; murdock1934k; perlman1969; richards1960a; richards1966; roscoe1911; rusch1975; semakulakiwanuka1972; southwold1965; southwold1971
+Ad8,Hehe,,-8,35,1910,4,"Slavery, hereditary",,brownandhutt1935; dempwolff1914; nigmann1908
+Ad9,Gisu,,1,34,1900,2,"Slavery, nonhereditary",,lafontaine1959; roscoe1915
+Ae1,Amba,,1,30,1950,1,Absence of slavery,,winter1956; winter1958
+Ae10,Banyaruanda,,-2,30,1910,2,"Slavery, nonhereditary",,czekanowski1917; dhertefelt1965; dhertefeltetal1962; maquet1955; maquet1967; pages1933; vanhove1941
+Ae11,Songola,,-4,26,1900,4,"Slavery, hereditary",,delhaise1909a
+Ae12,Duala,,4,10,1940,4,"Slavery, hereditary",,ardener1956; brutsch1950; buchner1887
+Ae13,Bashi,,-2,29,1920,NA,Missing data,,
+Ae14,Ha,,-5,30,1950,3,"Slavery, no info on heritability",,hertefeltetal1962
+Ae15,Hunde,,-2,28,1940,3,"Slavery, no info on heritability",,schumacher1949; viaene1951; viaene1952
+Ae16,Lulua,,-6,23,1910,3,"Slavery, no info on heritability",,lietard1929; vervaecke1910; wissmannetal1888
+Ae17,Rega,,-3,28,1900,1,Absence of slavery,,delhaise1909b; salmon1953
+Ae18,Songye,,-6,25,1900,4,"Slavery, hereditary",,tordayandjoyce1922; vanoverbergh1908
+Ae19,Garanganze,,-11,28,1930,4,"Slavery, hereditary",,grevisse193738
+Ae2,Kpe,,4.22,9.27,1950,2,"Slavery, nonhereditary",,ardener1956; leuschner1903
+Ae20,Ekonda,,-2,18,1940,2,"Slavery, nonhereditary",,brown1944; gilliard1925; muller1956; philippe1954; vanderkerken1944
+Ae21,Kela,,-3,23,1920,4,"Slavery, hereditary",,empain1922; tordayandjoyce1922
+Ae22,Kutsu,,-4,22,1900,3,"Slavery, no info on heritability",,tordayandjoyce1922; vanlaere1900
+Ae23,Lalia,,-1,23,1930,3,"Slavery, no info on heritability",,maes1934; rijek1937; vanderkerken1944
+Ae24,Mongo,,1,22,1920,3,"Slavery, no info on heritability",,gutersohn1920; ruskinandruskin1928; vanderkerken1944
+Ae25,Tetela,,-4,25,1920,2,"Slavery, nonhereditary",,heusch1955; tordayandjoyce1922; vanderkerken1944
+Ae26,Topoke,,0,24,1910,2,"Slavery, nonhereditary",,torday1911; tordayandjoyce1922
+Ae27,Lokele,,1,25,1910,3,"Slavery, no info on heritability",,bertrand1920; smith1911
+Ae28,Ngala,,1,18,1900,4,"Slavery, hereditary",,burssens1958; vanoverbergh1907a; weeks190910; weeks1913
+Ae29,Poto,,2,22,1900,4,"Slavery, hereditary",,hutereau1910a; lindemann1906
+Ae3,Fang,,1,11,1910,1,Absence of slavery,,alexandreandbinet1958; tessmann1913; trezenem1936
+Ae30,Bira,,1,29,1920,1,Absence of slavery,,czekanowski1924:327-357; vangeluwe1956
+Ae31,Budu,,2,28,1920,3,"Slavery, no info on heritability",,czekanowski1924:282-297; vangeluwe1960
+Ae32,Kumu,,-1,27,1920,1,Absence of slavery,,vangeluwe1956
+Ae33,Ndaka Babali,,1,27,1920,NA,Missing data,,
+Ae34,Plains Bira,,1,30,1920,1,Absence of slavery,,czekanowski1924:327-357; joset1936; vangeluwe1956
+Ae35,Rumbi,,0,28,1900,3,"Slavery, no info on heritability",,maes1909; vangeluwe1956
+Ae36,Bombesa,,1,23,1920,3,"Slavery, no info on heritability",,verbeke1928
+Ae37,Budja,,3,23,1930,2,"Slavery, nonhereditary",,soupart1938; vandenbergh1934
+Ae38,Ndoko,,2,21,1920,3,"Slavery, no info on heritability",,wijnant192526
+Ae39,Ngombe,,2,20,1920,2,"Slavery, nonhereditary",,burssens1958; wolfe1961; wolfe1965
+Ae4,Nkundo,,0,20,1930,2,"Slavery, nonhereditary",,boelaert1940; brepoels1930; gutersohn1920; hulstaert1938; hulstaert1971; schebesta1936; vanderkerken1944
+Ae40,Dzem,,3,14,1910,3,"Slavery, no info on heritability",,allys1930; koch1913
+Ae41,Kota,,1,14,1940,3,"Slavery, no info on heritability",,andersson1953
+Ae42,Ngumba,,3,11,1900,2,"Slavery, nonhereditary",,conradt1902; dugast1949
+Ae43,Sanga,,2,16,1900,3,"Slavery, no info on heritability",,burel1910; koch1913
+Ae44,Bubi,,3.54,8.72,1920,3,"Slavery, no info on heritability",,baumann1888; gildelgado1949; tessmann1923
+Ae45,Kundu,,10,9,1900,4,"Slavery, hereditary",,bufe1913; lessner1904
+Ae46,Mpongwe,,-2,10,1870,3,"Slavery, no info on heritability",,allegret1927; burton1876; duchaillu1861
+Ae47,Puku,,2,10,1900,3,"Slavery, no info on heritability",,oertzen1903; zeller1885
+Ae48,Bafia,,5,11,1930,3,"Slavery, no info on heritability",,mccullochetal1954; tessmann1934
+Ae49,Bali Nyonga,,6,10,1900,3,"Slavery, no info on heritability",,ankermann1910; covarrubias1937; hutter1899; kaberry1952
+Ae5,Bamileke,,5,10,1910,4,"Slavery, hereditary",,egerton1939; mccullochetal1954
+Ae50,Bamum,,6,11,1920,4,"Slavery, hereditary",,hutter1907; martin1951; mccullochetal1954; reinwuhrmann1925
+Ae51,Banen,,5,11,1940,4,"Slavery, hereditary",,dugast1944; dugast1955; dugast1959; mccullochetal1954; tessmann1934
+Ae52,Fungom,,7,10,1950,3,"Slavery, no info on heritability",,kaberry1952; mccullochetal1954
+Ae53,Koko,,4,11,1920,3,"Slavery, no info on heritability",,nicol1929
+Ae54,Kom,,6,10,1950,3,"Slavery, no info on heritability",,jeffreys1951; kaberry1952; mccullochetal1954
+Ae55,Ndob,,6,10,1950,3,"Slavery, no info on heritability",,kaberry1952; mccullochetal1954
+Ae56,Nsaw,,6,11,1950,3,"Slavery, no info on heritability",,kaberry1952; mccullochetal1954
+Ae57,Nsungli,,6,11,1930,3,"Slavery, no info on heritability",,kaberry1952; mccullochetal1954; sieberandsieber1938
+Ae58,Tikar,,6,12,1910,3,"Slavery, no info on heritability",,thorbecke1916; thorbeckeandthorbecke1919
+Ae59,Widikum,,6,10,1950,3,"Slavery, no info on heritability",,kaberry1952
+Ae6,Luba,,-8,26,1930,4,"Slavery, hereditary",,verhulpen1936
+Ae7,Baboa,,3,25,1910,2,"Slavery, nonhereditary",,czekanowski1924:257-281; halkin1911; hutereau1909; vedy1904
+Ae8,Rundi,,-3,30,1910,2,"Slavery, nonhereditary",,bourgeois1954; delacauw1936; dhertefeltetal1962; meyer1916; simons1944; vanderburgt1903
+Ae9,Fut,,6,10,1950,4,"Slavery, hereditary",,kaberry1952; mccullochetal1954
+Af1,Fon,,7,2,1890,4,"Slavery, hereditary",,argyle1966; bohannan1949; herskovits1932; herskovits1937a; herskovits1938; herskovitsandherskovits1933; leheriss1911; lombard1967; mercier1954; murdock1934b:551-595; skertchley1874; tarditsandtardits1962
+Af10,Igbo,,6,7,1930,4,"Slavery, hereditary",,ardener1954; egboh1971; egboh1972a; egboh1972b; egboh19734; fordeandjones1950; green1947; leithross1939; uchendu1965
+Af11,Toma,,11,-9,1920,4,"Slavery, hereditary",,gaborydubourdeau1926; rouet1907; schwab1947
+Af12,Akyem,,7,-1,1930,3,"Slavery, no info on heritability",,field1949; mead1937a
+Af13,Ebira,,8,7,1920,4,"Slavery, hereditary",,brown1955; wilsonhaffenden1930
+Af14,Sherbro,,7.52,-12.69,1930,3,"Slavery, no info on heritability",,hall1938; mcculloch1950; thomas1916
+Af15,Kpelle,,7,-9,1920,4,"Slavery, hereditary",,gibbs1963; gibbs1965; schwab1947; westermann1921
+Af16,Banyang,,6,9,1910,3,"Slavery, no info on heritability",,ruel1956; schuster1914; staschewski1917
+Af17,Boki,,6,9,1900,3,"Slavery, no info on heritability",,mansfeld1908; talbot1926
+Af18,Ekoi,,6,8,1900,3,"Slavery, no info on heritability",,bystrom1954; talbot1912
+Af19,Efik,,5,8,1950,3,"Slavery, no info on heritability",,fordeandjones1950; simmons1957; simmons1960
+Af2,Kissi,,9,-10,1950,4,"Slavery, hereditary",,neel1913; paulme1954
+Af20,Ibibio,,5,8,1910,3,"Slavery, no info on heritability",,fordeandjones1950; talbot1915; talbot1923
+Af21,Ijaw,,4.37,6.58,1920,2,"Slavery, nonhereditary",,granvilleandroth1898; talbot1932
+Af22,Itsekiri,,6,5,1940,4,"Slavery, hereditary",,lloyd1957; omoneukanrin1942
+Af23,Afikpo,,6,8,1950,4,"Slavery, hereditary",,ottenberg1960; ottenberg1965a; ottenberg1965b
+Af24,Edo,,6,6,1900,4,"Slavery, hereditary",,bradbury1957; roth1903; thomas1910
+Af25,Isoko,,5,6,1930,4,"Slavery, hereditary",,bradbury1957; welch1934
+Af26,Kukuruku,,7,6,1900,3,"Slavery, no info on heritability",,bradbury1957; thomas1910
+Af27,Eloyi,,8,8,1950,3,"Slavery, no info on heritability",,fordeetal1955; tschudi1956
+Af28,Gbagyi,,10,10,1910,3,"Slavery, no info on heritability",,gunnandconant1960
+Af29,Idoma,,7,8,1950,3,"Slavery, no info on heritability",,armstrong1954; fordeetal1955; temple1922
+Af3,Ashanti,,7,-2,1900,2,"Slavery, nonhereditary",,busia1951; busia1954; fortes1949b; fortes1950; fortes1969:138-216; fortesetal1947; lystad1958; manoukian1950; rattray1916; rattray1923; rattray1927; rattray1929; service1963; wilks1967; wilks1975
+Af30,Igala,,7,7,1920,3,"Slavery, no info on heritability",,clifford1936; fordeetal1955; mocklerferryman1892; seton192930
+Af31,Koro,,18,8,1960,3,"Slavery, no info on heritability",,gunnandconant1960
+Af32,Egba,,7,3,1920,4,"Slavery, hereditary",,ajisafe1924; forde1951
+Af33,Ekiti,,8,5,1950,3,"Slavery, no info on heritability",,forde1951; lloyd1955; lloyd1965; ward1937
+Af34,Ife,,7,5,1930,3,"Slavery, no info on heritability",,bascom1942; bascom1944; forde1951
+Af35,Adangme,,6,0,1940,NA,Missing data,,
+Af36,Ewe,,7,1,1900,3,"Slavery, no info on heritability",,asmis1911; klose1899; manoukian1952a; spieth1906; spieth1911; westermann1935
+Af37,Buem,,7.22,0.46,1900,4,"Slavery, hereditary",,asmis1911; hinderling195253; plehn1898
+Af38,Abron,,7.53,-2.15,1900,4,"Slavery, hereditary",,alland1963; clozelandvillamur1902; tauxier1921
+Af39,Anyi,,7,-4,1900,4,"Slavery, hereditary",,clozelandvillamur1902; kobben1956; tauxier1932; villamuranddelafosse1904
+Af4,Yako,,6,8,1930,2,"Slavery, nonhereditary",,forde1939; forde1941; forde1950; forde1952; forde1964
+Af40,Assini,,5.27,-3.58,1890,4,"Slavery, hereditary",,loyer1745; mouezy1942; reichenbach1890
+Af41,Attie,,6,-4,1890,3,"Slavery, no info on heritability",,crosson1900; dreyfus1900; vincenti1922
+Af42,Fante,,6,-1,1900,4,"Slavery, hereditary",,christensen1954; conolly1897; ffoulkes1908; ffoulkes1909; manoukian1950; sarbah1897
+Af43,Ga,,6,0,1930,3,"Slavery, no info on heritability",,daniell1856; field1937; field1940; manoukian1950
+Af44,Alagya,,5.22,-4.42,1900,3,"Slavery, no info on heritability",,clozelandvillamur1902
+Af45,Avikam,,5.15,-5.25,1900,3,"Slavery, no info on heritability",,clozelandvillamur1902; grivot1942
+Af46,Bakwe,,5,-7,1900,3,"Slavery, no info on heritability",,clozelandvillamur1902; coutouly1920
+Af47,Krahn,,6,-8,1940,3,"Slavery, no info on heritability",,beckerdonner1944; schwab1947
+Af48,Kru,,5,-9,1850,3,"Slavery, no info on heritability",,wilson1856
+Af49,Sapo,,6,-9,1940,2,"Slavery, nonhereditary",,schwab1947
+Af5,Mende,,8,-11,1930,4,"Slavery, hereditary",,bockani1945; crosby1937; little1947; little1948; little1951; little1954; little1970; mcculloch1950; staub1936
+Af50,Dan,,8,-8,1920,3,"Slavery, no info on heritability",,chevalier1908; himmelheberandhimmelheber1958; vendeix1924
+Af51,Gagu,,7,-6,1920,1,Absence of slavery,,tauxier1924a
+Af52,Guro,,7,-6,1920,4,"Slavery, hereditary",,tauxier1924a
+Af53,Tura,,8,-7,1950,NA,Missing data,,
+Af54,Gbande,,8,-10,1930,3,"Slavery, no info on heritability",,germann1933; schwab1947
+Af55,Gola,,7,-11,1950,3,"Slavery, no info on heritability",,dazevedo1962
+Af56,Ngere,,7,-8,1930,3,"Slavery, no info on heritability",,schwab1947; viard1934
+Af57,Temne,,8.46,-12.64,1910,3,"Slavery, no info on heritability",,langley1939; mcculloch1950; thomas1916
+Af58,Vai,,6.89,-11.2,1900,3,"Slavery, no info on heritability",,delafosse1899; ellis1914; mcculloch1950; ronnefeldt1935; thomas1916
+Af6,Oyo Yoruba,,8,4,1950,2,"Slavery, nonhereditary",,forde1951; lloyd1955; schwab1955
+Af7,Bete,,6,-7,1950,1,Absence of slavery,,dunglas1939; hallouin1947; kobben1956; paulme1962
+Af8,Nupe,,9,6,1930,4,"Slavery, hereditary",,banfieldandmacintyre1915; forde1955; nadel1940; nadel1942; nadel1954
+Af9,Baule,,8,-5,1900,4,"Slavery, hereditary",,clozelandvillamur1902; labouret1914; menalque1933
+Ag1,Bambara,,13,-7,1920,4,"Slavery, hereditary",,dieterlen1951; dieterlenandcisse1972; henry1910; monteil1924; monteil1967; paques1954
+Ag10,Konkomba,,10,0,1940,2,"Slavery, nonhereditary",,froelich1949b; froelichetal1963; manoukian1952b; tait1953; tait1956; tait1958
+Ag11,Lobi,,10,-4,1910,2,"Slavery, nonhereditary",,charles1911; haumant1929; labouret1931
+Ag12,Nankanse,,10,-1,1910,2,"Slavery, nonhereditary",,manoukian1952b; rattray1932; tauxier1912
+Ag13,Kasena,,11,-1,1910,3,"Slavery, no info on heritability",,manoukian1952b; rattray1932; tauxier1912; zwernemann1963
+Ag14,Baga,,10,-14,1950,1,Absence of slavery,,aberle1953; krader1963; meo1919; paulme1956; paulme1957; vladimirtsov1948
+Ag15,Balanta,,12,-16,1930,3,"Slavery, no info on heritability",,bernatzik1933
+Ag16,Banyun,,12,-16,1930,1,Absence of slavery,,bernatzik1933; nogueira1947
+Ag17,Biafada,,12,-15,1940,3,"Slavery, no info on heritability",,gomes1946
+Ag18,Bijogo,,11.1,-16.15,1930,3,"Slavery, no info on heritability",,bernatzik1933; bernatzik1944; santoslima1947
+Ag19,Diola,,12.88,-16.19,1930,1,Absence of slavery,,bernatzik1933; cunhataborde1950
+Ag2,Mossi (Yatenga),,13,-2,1950,4,"Slavery, hereditary",,hammond1964; hammond1966; hammondnd; izardheritierandizard1959; tauxier1917; yatenga1950
+Ag20,Papel,,12,-16,1930,1,Absence of slavery,,bernatzik1933
+Ag21,Bassari,,12,-13,1910,1,Absence of slavery,,lestrange1950
+Ag22,Serer,,14,-12,1920,4,"Slavery, hereditary",,aujas1931; bourgeau1933; dulphy1939; fayet1939
+Ag23,Kasonke,,13,-11,1910,3,"Slavery, no info on heritability",,monteil1915
+Ag24,Koranko,,9,-11,1910,3,"Slavery, no info on heritability",,chevalier1909; kamaraanddrummond1930; thomas1916
+Ag25,Soninke,,15,10,1900,4,"Slavery, hereditary",,berengerferaud1878; boyer1953; daniel1910; nicole1903; saintpere1925
+Ag26,Susu,,15,-13,1930,3,"Slavery, no info on heritability",,anonymous1939a; aubert1936; thomas1916
+Ag27,Diula,,9,-4,1910,3,"Slavery, no info on heritability",,tauxier1912; tauxier1921
+Ag28,Nononke,,14,-4,1930,4,"Slavery, hereditary",,monteil1932
+Ag29,Samo,,13,-3,1910,NA,Missing data,,
+Ag3,Dogon,,15,-3,1930,4,"Slavery, hereditary",,arnaud1921; dieterlen1956; griauleanddieterlen1954; paulme1940
+Ag30,Bobo,,13,-4,1910,3,"Slavery, no info on heritability",,cremer192427; guebhard1911; tauxier1912
+Ag31,Minianka,,12,-6,1910,4,"Slavery, hereditary",,cheron1913; holas1957
+Ag32,Senufo,,10,-6,1900,4,"Slavery, hereditary",,delafosse190809; holas1957; vendeix1935
+Ag33,Dyan,,11,-3,1920,3,"Slavery, no info on heritability",,labouret1931
+Ag34,Dorosie,,11,-4,1930,3,"Slavery, no info on heritability",,labouret1931; tauxier1931
+Ag35,Kulango,,7,-3,1910,3,"Slavery, no info on heritability",,tauxier1921
+Ag36,Lowiili,,11,-3,1950,NA,Missing data,,
+Ag37,Awuna,,11,-2,1910,3,"Slavery, no info on heritability",,rattray1932; tauxier1912
+Ag38,Builsa,,11,-2,1910,3,"Slavery, no info on heritability",,rattray1932; tauxier1912
+Ag39,Dagara,,11,-3,1910,3,"Slavery, no info on heritability",,labouret1920; rattray1932; tauxier1912
+Ag4,Tallensi,,11,-1,1930,2,"Slavery, nonhereditary",,fortes1937; fortes1938; fortes1940; fortes1945; fortes1949a; fortes1975; fortesandfortes1936; lynn1937; rattray1932
+Ag40,Isala,,10,-2,1910,3,"Slavery, no info on heritability",,rattray1932; tauxier1912
+Ag41,Kusasi,,11,0,1920,NA,Missing data,,
+Ag42,Nunuma,,12,-3,1910,3,"Slavery, no info on heritability",,tauxier1912; tauxier1924b
+Ag43,Vagala,,8,-2,1920,NA,Missing data,,
+Ag44,Dagomba,,9,0,1910,3,"Slavery, no info on heritability",,duncanjohnstoneandblair1932; fisch1913; rattray1932
+Ag45,Gurma,,12,2,1930,4,"Slavery, hereditary",,cartry1966; castinel1945; menjaud1932
+Ag46,Manprusi,,10,-1,1920,3,"Slavery, no info on heritability",,manoukian1952b; rattray1932
+Ag47,Mossi (Ouagadougou),,12,-2,1900,4,"Slavery, hereditary",,dimdelobosom1933; mangin1921; marc1909; skinner1958; skinner1964; tauxier1912
+Ag48,Basari,,9,1,1890,4,"Slavery, hereditary",,froelichetal1963; klose1899; klose1903; zech1899
+Ag49,Kabre,,10,2,1930,3,"Slavery, no info on heritability",,froelich1949a; froelichetal1963; puig1934
+Ag5,Birifor,,10,-3,1930,2,"Slavery, nonhereditary",,goody1956; labouret1931; rattray1932
+Ag50,Moba,,11,1,1910,3,"Slavery, no info on heritability",,asmis1912; froelichetal1963
+Ag51,Somba,,11,1,1940,3,"Slavery, no info on heritability",,mercier1950; mercier1953
+Ag52,Tem,,11,1,1950,NA,Missing data,,
+Ag53,Bisa,,12,0,1960,4,"Slavery, hereditary",,bernard1966
+Ag54,Yalunka,,10,-12,1910,4,"Slavery, hereditary",,donald1968a; donald1968b; mcculloch1950; thomas1916
+Ag6,Futajalonke,,11,-13,1890,3,"Slavery, no info on heritability",,durand1929; vieillard1939; vieillard1940
+Ag7,Bozo,,14,-5,1930,3,"Slavery, no info on heritability",,malzy1946; ortoli1939
+Ag8,Coniagui,,13,-13,1910,1,Absence of slavery,,delacour191213; lestrange1950; techer1933
+Ag9,Malinke,,11,-9,1930,4,"Slavery, hereditary",,labouret1934; sidibe1932
+Ah1,Katab,,10,8,1930,3,"Slavery, no info on heritability",,gunn1956; meek192829; meek1931b; smith1953
+Ah10,Chawai,,10,9,1920,3,"Slavery, no info on heritability",,gunn1953; meek1931b
+Ah11,Basa,,8,8,1950,3,"Slavery, no info on heritability",,gunnandconant1960
+Ah12,Basakomo,,8,7,1920,NA,Missing data,,
+Ah13,Dakakari,,12,5,1930,3,"Slavery, no info on heritability",,harris1938
+Ah14,Kamuku,,11,6,1920,3,"Slavery, no info on heritability",,gunnandconant1960
+Ah15,Reshe,,11,5,1920,NA,Missing data,,
+Ah16,Angas,,9,9,1900,3,"Slavery, no info on heritability",,fitzpatrick1910; mohr1958
+Ah17,Birom,,10,9,1930,NA,Missing data,,
+Ah18,Burmawa,,10,10,1930,3,"Slavery, no info on heritability",,bestnd
+Ah19,Adara,,10,8,1930,3,"Slavery, no info on heritability",,gunn1953; smithnda; smithndb
+Ah2,Jukun,,8,10,1920,2,"Slavery, nonhereditary",,meek1931a
+Ah20,Kagoro,,10,8,1920,3,"Slavery, no info on heritability",,gunn1956; meek1931b; smith1951; smithnda; tremearne1912
+Ah21,Kurama,,10,9,1920,3,"Slavery, no info on heritability",,gunn1956; meek1931b
+Ah22,Yergum,,9,10,1900,3,"Slavery, no info on heritability",,ames1934; fitzpatrick1910; meek1931a; meek1931b; temple1922
+Ah23,Jibu,,8,11,1920,NA,Missing data,,
+Ah24,Kentu,,7,10,1920,3,"Slavery, no info on heritability",,meek1931b
+Ah25,Tigon,,17,11,1920,3,"Slavery, no info on heritability",,kaberry1952; meek1931b
+Ah26,Ndoro,,7,11,1920,3,"Slavery, no info on heritability",,meek1931b
+Ah27,Zuande,,7,11,1920,NA,Missing data,,
+Ah28,Chamba,,8,11,1920,3,"Slavery, no info on heritability",,meek1931b
+Ah29,Daka,,8,11,1920,3,"Slavery, no info on heritability",,meek1931b
+Ah3,Tiv,,7,9,1920,4,"Slavery, hereditary",,bohannan1952; bohannan1953; bohannan1954a; bohannan1954b; bohannan1954c; bohannan1955; bohannan1957a; bohannan1957b; bohannan1960; bohannan1965; bohannanandbohannan1953; bohannanandbohannan1957; bohannanandbohannan1958; bohannanandbohannan1968; bohannanandbohannan1969
+Ah30,Longuda,,10,12,1920,NA,Missing data,,
+Ah31,Mumuye,,9,12,1910,3,"Slavery, no info on heritability",,haughton1912; meek1931b
+Ah32,Vere,,9,13,1920,3,"Slavery, no info on heritability",,meek1931b
+Ah33,Yungur,,10,12,1920,3,"Slavery, no info on heritability",,meek1931b; temple1922
+Ah34,Bata,,10,13,1920,3,"Slavery, no info on heritability",,meek1931b
+Ah35,Bura,,10,12,1920,3,"Slavery, no info on heritability",,helser1926; meek1931b
+Ah36,Gude,,10,13,1920,1,Absence of slavery,,lembezat1961; meek1931b
+Ah37,Hwana,,10,13,1920,3,"Slavery, no info on heritability",,meek1931b
+Ah38,Kapsiki,,11,14,1930,3,"Slavery, no info on heritability",,lembezat1950; lembezat1961; meek1931b
+Ah39,Podokwo,,11,14,1950,1,Absence of slavery,,lembezat1952; lembezat1961
+Ah4,Mambila,,7,12,1920,3,"Slavery, no info on heritability",,meek1931b; percival1938; rehfisch1960
+Ah5,Margi,,11,13,1930,3,"Slavery, no info on heritability",,meek1931b; rowling1930
+Ah6,Gure,,10,8,1920,3,"Slavery, no info on heritability",,dunn1956; meek1931b:189-219
+Ah7,Mafa,,11,14,1940,1,Absence of slavery,,hinderling1955; lavergne1949; lembezat1961
+Ah8,Bafute,,6,12,1910,4,"Slavery, hereditary",,lembezat1961; sieber1925; thorbecke1916
+Ah9,Anaguta,,10,9,1920,3,"Slavery, no info on heritability",,diamond1964; gunn1953
+Ai1,Banda,,7,22,1920,2,"Slavery, nonhereditary",,daigre193232; leynaud1954
+Ai10,Otoro,,12,31,1940,2,"Slavery, nonhereditary",,nadel1947
+Ai11,Mangbetu,,3,28,1900,2,"Slavery, nonhereditary",,czekanowski1924:111-183; hutereau1909; vanoverbergh1909
+Ai12,Fali,,10,14,1950,3,"Slavery, no info on heritability",,foelich1956; lembezat1961; malzy1956
+Ai13,Laka,,8,16,1920,3,"Slavery, no info on heritability",,tessmann1929
+Ai14,Mbum,,7,14,1920,NA,Missing data,,
+Ai15,Mundang,,10,14,1900,3,"Slavery, no info on heritability",,brussaux1907; lembezat1916a; martin1947
+Ai16,Namshi,,9,13,1910,NA,Missing data,,
+Ai17,Gisiga,,10,14,1930,NA,Missing data,,
+Ai18,Kotoko,,12,15,1880,3,"Slavery, no info on heritability",,lebeuf1959
+Ai19,Musgu,,11,15,1910,NA,Missing data,,
+Ai2,Nyaro,,11,31,1940,2,"Slavery, nonhereditary",,nadel1950
+Ai20,Tupuri,,10,15,1910,NA,Missing data,,
+Ai21,Bagirmi,,11,17,1880,4,"Slavery, hereditary",,duvallee1925; gaden1909; lebeuf1959; nachtigal1881:539-765
+Ai22,Sara,,9,18,1890,3,"Slavery, no info on heritability",,delafosse1897
+Ai23,Bwaka,,3,19,1920,3,"Slavery, no info on heritability",,burssens1958; crabbeck1943; poutrin1910; tessmann1929
+Ai24,Mandja,,6,18,1900,1,Absence of slavery,,gaud1911; vergiat1937
+Ai25,Mbandja,,4,21,1950,3,"Slavery, no info on heritability",,burssens1958
+Ai26,Ngbandi,,4,22,1920,4,"Slavery, hereditary",,burssens1958; nelson1951; tanghe1928
+Ai27,Abarambo,,4,27,1890,3,"Slavery, no info on heritability",,czekanowski1924; nvs1896
+Ai28,Popoi,,2,26,1910,3,"Slavery, no info on heritability",,delhaise1912
+Ai29,Lendu,,2,30,1920,NA,Missing data,,
+Ai3,Azande,,5,27,1920,2,"Slavery, nonhereditary",,baxterandbutt1953; deschlippe1956; evanspritchard1932b; evanspritchard1937; evanspritchard1956; evanspritchard1957; evanspritchard1963; evanspritchard1971; evanspritchard1971; evanspritchard1974; larkin192627; legae1926; reining1966; schweinfurth1873; seligmanandseligman1932
+Ai30,Lese,,2,29,1920,NA,Missing data,,
+Ai31,Logo,,3,30,1920,1,Absence of slavery,,baxterandbutt1953; czekanowski1924
+Ai32,Lugbara,,3,32,1920,2,"Slavery, nonhereditary",,baxterandbutt1953; mcconnell1925; middleton1958; middleton1960; middleton1965
+Ai33,Madi,,4,32,1940,NA,Missing data,,
+Ai34,Moru,,5,30,1880,NA,Missing data,,
+Ai35,Bongo,,7,29,1870,1,Absence of slavery,,baxterandbutt1953; evanspritchard1929; schweinfurth1874:256-314
+Ai36,Jur,,8,28,1920,3,"Slavery, no info on heritability",,bernatzik1936; butt1952b; crazzolara1954; ghawi1924; manuel1965; santandrea194445
+Ai37,Koalib,,12,31,1940,3,"Slavery, no info on heritability",,nadel1947
+Ai38,Korongo,,10,30,1930,NA,Missing data,,
+Ai39,Mesakin,,11,30,1940,3,"Slavery, no info on heritability",,nadel1947
+Ai4,Ingassana,,11,34,1920,NA,Missing data,,
+Ai40,Moro,,11,30,1940,3,"Slavery, no info on heritability",,nadel1947
+Ai41,Tira,,11,30,1930,3,"Slavery, no info on heritability",,nadel1947; seligmanandseligman1932
+Ai42,Tullishi,,12,29,1940,3,"Slavery, no info on heritability",,nadel1947; nadel1950
+Ai43,Nyimang,,12,29,1930,4,"Slavery, hereditary",,nadel1947; stevenson1940
+Ai44,Anuak,,8,34,1920,NA,Missing data,,
+Ai45,Meban,,10,34,1930,NA,Missing data,,
+Ai46,Koma,,9,35,1930,3,"Slavery, no info on heritability",,corfield1938; grottanelli1948
+Ai47,Mao,,9,35,1939,NA,Missing data,,
+Ai5,Mamvu,,3,29,1920,3,"Slavery, no info on heritability",,czekanowski1924:400-467; vangeluwe1957
+Ai6,Shilluk,,10,32,1900,4,"Slavery, hereditary",,butt1952b; cann1929; dempsey1955; evanspritchard1948; hofmayr1925; howell1941; lienhardt1954; pumphrey1941; seligmanandseligman1932; westermann1912
+Ai7,Gbaya,,6,16,1910,4,"Slavery, hereditary",,clozel1896; hartmann1927; poupon1915; tessmann193437
+Ai8,Dilling,,12,30,1930,4,"Slavery, hereditary",,hawkesworth1932; nadel1947
+Ai9,Masa,,10,16,1910,NA,Missing data,,
+Aj1,Teso,,2,34,1950,2,"Slavery, nonhereditary",,lawrance1957
+Aj10,Acholi,,3,32,1920,1,Absence of slavery,,butt1952b; girling1960; grove1919; seligmanandseligman1932
+Aj11,Dinka,,9,29,1900,3,"Slavery, no info on heritability",,cummins1904; howell1951; lienhardt1958; lienhardt1961; nebel1948; seligmanandseligman1932; stubbsandmorrison1938; titherington1927
+Aj12,Lotuko,,4,33,1920,1,Absence of slavery,,molinaro194041; nalder1937; seligmanandseligman1926; seligmanandseligman1932
+Aj13,Pojulu,,4,31,1930,NA,Missing data,,
+Aj14,Kakwa,,4,31,1931,NA,Missing data,,
+Aj15,Kuku,,4,32,1900,2,"Slavery, nonhereditary",,huntingford1953a; nalder1937; vandenplas1910; yunis1924
+Aj16,Mondari,,6,31,1930,1,Absence of slavery,,buxton1958; huntingford1953a; nalder1937
+Aj17,Alur,,2,31,1890,3,"Slavery, no info on heritability",,demuenynck1908; southall1956; stirton1925; stuhlmann1894
+Aj18,Bodi,,5,35,1950,NA,Missing data,,
+Aj19,Didinga,,4,34,1920,3,"Slavery, no info on heritability",,driberg1922; driberg1925a; driberg1932
+Aj2,Maasi,,-2,36,1900,1,Absence of slavery,,baumann1894; fosbrooke1948; hollis1905; huntingford1953b; merker1904
+Aj20,Suri,,6,35,1940,3,"Slavery, no info on heritability",,cerulli1956; lyth1947; pauli1950
+Aj21,Jie,,3,34,1930,1,Absence of slavery,,gulliver1953; gulliver1955; gulliver1965; gulliverandgulliver1953; wayland1931
+Aj22,Labwor,,3,34,1930,NA,Missing data,,
+Aj23,Plains Suk,,1,36,1950,1,Absence of slavery,,beech1911; huntingford1953b; peristiany1951; schneider1957a; schneider1957b
+Aj24,Toposa,,5,34,1930,NA,Missing data,,
+Aj25,Keyu,,0,36,1920,1,Absence of slavery,,huntingford1953b; massam1927
+Aj26,Hill Suk,,1,36,1910,1,Absence of slavery,,barton1921; beech1911; huntingford1953b; peristiany1954; schneider1957a
+Aj27,Sapei,,1,35,1920,1,Absence of slavery,,roscoe1924
+Aj28,Tatoga,,-5,35,1940,1,Absence of slavery,,baumann1894; huntingford1953b; klima1964; wilson195253
+Aj29,Samburu,,1,37,1950,1,Absence of slavery,,spencer1965
+Aj3,Nuer,,8,32,1930,1,Absence of slavery,,evanspritchard1936; evanspritchard1940a; evanspritchard1940b; evanspritchard1950b; jackson1923; seligmanandseligman1932; tucker1933
+Aj30,Karamojong,,2,34,1950,NA,Missing data,,
+Aj31,Pari,,5,33,1920,NA,Missing data,,
+Aj4,Lango,,2,33,1920,2,"Slavery, nonhereditary",,driberg1923; hayley1947
+Aj5,Turkana,,4,35,1920,1,Absence of slavery,,elmley1927; gulliver1951; gulliver1955; rayne1919; white1920
+Aj6,Luo,,-1,34,1940,1,Absence of slavery,,butt1952a; evanspritchard1949a; evanspritchard1950a; hartmann1928; hobley1902; owen1933; shaw1932; southall1952
+Aj7,Nandi,,0,35,1910,1,Absence of slavery,,hollis1909; huntingford1950; huntingford1953b; huntingford1953c; snell1954
+Aj8,Bari,,5,32,1920,1,Absence of slavery,,beaton1936; huntingford1953a; owen1908; seligmanandseligman1928; seligmanandseligman1932
+Aj9,Kipsigis,,-1,36,1920,1,Absence of slavery,,barton1923; huntingford1953b; peristiany1938
+Ca1,Konso,,6,37,1930,1,Absence of slavery,,cerulli1956; hallpike1969; jensen1936; kluckhohn1962
+Ca10,Somali (Esa),,10,43,1880,4,"Slavery, hereditary",,hildebrandt1875; lewis1955; paulitschke1888
+Ca11,Arusi,,8,40,1890,3,"Slavery, no info on heritability",,huntingford1955b; paulitschke189396b
+Ca12,Gibe,,8,37,1880,4,"Slavery, hereditary",,cecchi188587; cerulli193233; huntingford1955b; onnekin1956
+Ca13,Macha,,9,37,1950,4,"Slavery, hereditary",,huntingford1955b; knutsson1963; knutsson1967
+Ca14,Burji,,5,38,1950,2,"Slavery, nonhereditary",,cerulli1956; fleming1965
+Ca15,Darasa,,6,38,1930,NA,Missing data,,
+Ca16,Sidama,,7,38,1930,NA,Missing data,,
+Ca17,Tsamai,,5,37,1950,NA,Missing data,,
+Ca18,Arbore,,5,37,1940,NA,Missing data,,
+Ca19,Banna,,6,36,1950,NA,Missing data,,
+Ca2,Somali (Dolbahanta),,8,48,1950,4,"Slavery, hereditary",,lewis1955; lewis1957; lewis1961; lewis1962b; lewis1962c; lewis1965a; paulitschke1888; puccioni1936
+Ca20,Galab,,5,36,1890,NA,Missing data,,
+Ca21,Hamar,,5,36,1950,NA,Missing data,,
+Ca22,Male,,6,37,1950,NA,Missing data,,
+Ca23,Bako,,6,37,1950,NA,Missing data,,
+Ca24,Dime,,6,36,1950,3,"Slavery, no info on heritability",,jensen1959
+Ca25,Shangama,,6,37,1950,NA,Missing data,,
+Ca26,Ubamer,,6,37,1950,NA,Missing data,,
+Ca27,Anfillo,,9,35,1930,NA,Missing data,,
+Ca28,Basketo,,6,37,1950,NA,Missing data,,
+Ca29,Yem,,8,38,1920,4,"Slavery, hereditary",,huntingford1955b; straube1963
+Ca3,Tigrinya,,14,39,1950,4,"Slavery, hereditary",,fischer1957b; munzinger1864; nadel1946
+Ca30,Kafa,,7,36,1890,4,"Slavery, hereditary",,bieber192023; cerulli193233; huntingford1955b
+Ca31,Beta Israel,,12,37,1860,1,Absence of slavery,,flad1860; leslau1951; leslau1957; stern1862
+Ca32,Nara,,16,38,1860,2,"Slavery, nonhereditary",,grottanelliandmassari1943; munzinger1864; pollera1913; tucci1950
+Ca33,Kunama,,15,37,1860,2,"Slavery, nonhereditary",,grottanelliandmassari1943; munzinger1864; pollera1913; tucci1950
+Ca34,Ababda,,24,34,1920,NA,Missing data,,
+Ca35,Amarar,,20,36,1930,NA,Missing data,,
+Ca36,Beni-Amer,,18,38,1860,4,"Slavery, hereditary",,munzinger1864; nadel1945; paul1950
+Ca37,Blin,,16,36,1850,4,"Slavery, hereditary",,munzinger1859
+Ca38,Tigre,,17,39,1860,4,"Slavery, hereditary",,littman1910; munzinger1864
+Ca39,Jimma,,8,37,1930,4,"Slavery, hereditary",,lewis1965b
+Ca4,Iraqw,,-4,35,1950,NA,Missing data,,
+Ca40,Baditu,,6,38,1950,4,"Slavery, hereditary",,straube1963
+Ca41,Dorse,,6,38,1950,4,"Slavery, hereditary",,straube1957; straube1963
+Ca42,Shako,,7,36,1950,4,"Slavery, hereditary",,straube1963
+Ca43,Hadendowa,,18,36,1930,NA,Missing data,,
+Ca5,Bisharin,,20,35,1930,1,Absence of slavery,,clark1938; murray1935; sandars1933
+Ca6,Afar,,12,42,1880,4,"Slavery, hereditary",,lewis1955; lucas1935; paulitschke189396a; scaramucciandgiglioli1884
+Ca7,Amhara,,13,38,1950,4,"Slavery, hereditary",,lipsky1962; messing1957
+Ca8,Gurage,,8,38,1940,NA,Missing data,,
+Ca9,Goroa,,-4,36,1890,1,Absence of slavery,,baumann1894; huntingford1953b; reche1914
+Cb1,Maguzawa,,12,10,1940,2,"Slavery, nonhereditary",,greenberg1946; greenberg1947
+Cb10,Karekare,,12,11,1920,3,"Slavery, no info on heritability",,meek1931b
+Cb11,Midobi,,16,27,1900,NA,Missing data,,
+Cb12,Gimma,,13,32,1920,3,"Slavery, no info on heritability",,reid1930
+Cb13,Habbaniya,,11,25,1930,3,"Slavery, no info on heritability",,lampen1933
+Cb14,Hemat,,11,20,1910,3,"Slavery, no info on heritability",,lagrange1913; martine1924
+Cb15,Messiria Humr,,11,28,1940,4,"Slavery, hereditary",,cunnison1954; henderson1939
+Cb16,Shuwa,,13,15,1920,3,"Slavery, no info on heritability",,bouille1937; devallee1925
+Cb17,Fur,,12,24,1880,3,"Slavery, no info on heritability",,barth1967; beaton1948; felkin1885; macmichael1922:91-121; tunisi1845
+Cb18,Kanembu,,14,14,1930,4,"Slavery, hereditary",,bouille1937; carbou1912; lebeuf1959
+Cb19,Kanuri,,12,13,1870,4,"Slavery, hereditary",,cohen1960; cohen1961; cohen1967; denhamandclapperton1826; nachtigal1881; schultze1913
+Cb2,Wolof,,15,-17,1950,4,"Slavery, hereditary",,ames1953; ames1959a; ames1959b; ames1962; falad1963; gailey1965; gamble1957; gray1966; irvine1973; trimingham1962
+Cb20,Zerma,,13,3,1920,3,"Slavery, no info on heritability",,dupicq1931; robin1947
+Cb21,Djafun,,8,13,1930,3,"Slavery, no info on heritability",,pfeffer1936
+Cb22,Liptako,,14,0,1920,3,"Slavery, no info on heritability",,coutouly1923; delmond1953
+Cb23,Tukulor,,14.73,-14.32,1930,4,"Slavery, hereditary",,kane1939; lafont1939
+Cb24,Wodaabe Fulani,,12,12,1950,NA,Missing data,,
+Cb25,Tazarawa Hausa,,14,8,1930,3,"Slavery, no info on heritability",,anonymous1939
+Cb26,Zazzagawa Hausa,,11,8,1950,3,"Slavery, no info on heritability",,dry1956; greenberg1946; greenberg1947; hill1972; prothero1957; smith1954a; smith1955b; smith1960; smith1962; smith1965; smith1967; smith1978b
+Cb27,Bachama,,10,12,1920,3,"Slavery, no info on heritability",,fegan1930; meek1931b
+Cb28,Dera,,10,12,1920,NA,Missing data,,
+Cb29,Ngizim,,12,10,1920,NA,Missing data,,
+Cb3,Songhai,,17,-1,1940,4,"Slavery, hereditary",,jacquemond1959; miner1953; prost1954; prost1970; rouch1954; rouch1960; sarr1973
+Cb4,Hasania,,14,32,1920,3,"Slavery, no info on heritability",,reid1930
+Cb5,Buduma,,13,15,1910,3,"Slavery, no info on heritability",,bouille1937; lebeuf1959; talbot1911
+Cb6,Tera,,11,12,1920,3,"Slavery, no info on heritability",,woodnd
+Cb7,Bolewa,,11,11,1920,4,"Slavery, hereditary",,meek1931b:288-310
+Cb8,Bororo Fulani,,13,5,1920,3,"Slavery, no info on heritability",,faidherbe1882; fordeandscott1946; stcroix1944; stenning1959; wilsonhaffenden1925
+Cb9,Hausa Kanawa,,12,9,1940,4,"Slavery, hereditary",,fordeandscott1946; smith1955a
+Cc1,Regeibat,,22,-13,1950,4,"Slavery, hereditary",,briggs1958; carobaroja1955; cauneille1950
+Cc10,Asben,,18,8,1900,4,"Slavery, hereditary",,jean1909; joubert1939; nicolaisen1963; nicolas1950; rodd1926
+Cc11,Azjer,,25,10,1860,4,"Slavery, hereditary",,duveyrier1864
+Cc12,Ifora,,20,2,1944,4,"Slavery, hereditary",,cortier1908
+Cc13,Udalan Tuareg,,16,0,1920,NA,Missing data,,
+Cc14,Daza,,17,18,1880,4,"Slavery, hereditary",,bouille1937; carbou1912; chapelle1957b; cline1950; lebeuf1959; lecoeur1956; nachtigal1881:115-150
+Cc15,Drawa,,31,-7,1920,4,"Slavery, hereditary",,chapelle1929; meunie1947; spillmann1931
+Cc16,Chaambra,,32,3,1930,4,"Slavery, hereditary",,briggs1958; darmagnac1934
+Cc17,Delim,,22,-15,1930,4,"Slavery, hereditary",,carobaroja1955; lotte1939
+Cc18,Kunta,,19,-1,1910,4,"Slavery, hereditary",,salvy1951; tauxier1912
+Cc19,Trarza,,18,-15,1950,4,"Slavery, hereditary",,dubie1953; martv1919
+Cc2,Teda,,21,17,1950,2,"Slavery, nonhereditary",,briggs1958; chapelle1957a; cline1950; fuchs1956; lecoeur1950; nachtigal1879
+Cc20,Zenaga,,18,-8,1910,4,"Slavery, hereditary",,adeler1939; tauxier1912
+Cc3,Siwans,,29,26,1920,4,"Slavery, hereditary",,abdallah1917; belgrave1923; cline1936
+Cc4,Mzab,,33,4,1920,3,"Slavery, no info on heritability",,goichon1927; mercier1922
+Cc5,Kel Antessar,,18,-3,1910,4,"Slavery, hereditary",,aymard1911; miner1953; said1903; zeltner1914
+Cc6,Kababish,,17,31,1910,4,"Slavery, hereditary",,parkyns1951; seligmanandseligman1918
+Cc7,Barabish,,20,-5,1950,4,"Slavery, hereditary",,miner1953
+Cc8,Aulliminden,,8,2,1890,4,"Slavery, hereditary",,hourst1899
+Cc9,Tuareg Ahaggar,,23,6,1920,4,"Slavery, hereditary",,benhazera1908; briggs1958; lhote1955and1944; nicolaisen1959; nicolaisen1963
+Cd1,Barabra,,23,33,1920,4,"Slavery, hereditary",,callenderandelguindi1971; fernea1966; herzog1957; kennedy1977; schafer1935
+Cd10,Zekara,,34,-2,1900,1,Absence of slavery,,destaing190711; moulieras1905
+Cd11,Guanche,,27.99,-15.62,1500,1,Absence of slavery,,cook1900; espinosa1907; gambier1894
+Cd12,Algerians,,31,2,1870,4,"Slavery, hereditary",,bel1908; bernard1929; villot1875; vollenhoven1903
+Cd13,Hamama,,30,9,1930,NA,Missing data,,
+Cd14,Hamyan,,35,2,1870,4,"Slavery, hereditary",,bernard1929; villot1875
+Cd15,Jebala,,35,-5,1910,4,"Slavery, hereditary",,michauxbellaire1911; rackow1958
+Cd16,Moroccans,,33,-8,1930,4,"Slavery, hereditary",,michauxbellaire1932
+Cd17,Nail,,35,5,1920,NA,Missing data,,
+Cd18,Saadi,,30,28,1920,4,"Slavery, hereditary",,kennett1925; murray1935
+Cd19,Sahel,,35,10.94,1920,4,"Slavery, hereditary",,despois1940; ubachandrackow1923
+Cd2,Egyptians,,25,33,1950,3,"Slavery, no info on heritability",,ammar1954; ayrout1945; blackman1927; harris1957
+Cd20,Sanusi,,31,22,1940,NA,Missing data,,
+Cd21,Tunisians,,37,10,1930,NA,Missing data,,
+Cd3,Riffians,,35,-4,1920,1,Absence of slavery,,coon1931; hart1954; hart1976; moulieras1895
+Cd4,Kabyle,,36,4,1890,2,"Slavery, nonhereditary",,bourdieu1966; hanoteauandletourneaux1893; maunier1930
+Cd5,Shluh,,30,-9,1920,1,Absence of slavery,But class and caste distinctions and slavery are well developed among the lowland Shluh,montagne1927; montagne1930; ubachandrackow1923
+Cd6,Ancient Egyptians,,30,31,-1400,4,"Slavery, hereditary",,budge1926; erman1923; kees1923; montet1946
+Cd7,Beraber,,33,-7,1910,3,"Slavery, no info on heritability",,bourilly1932; celerier1927; laoust1915; michauxbellaire1920; piquet1925; querleux1915
+Cd8,Shawiya,,36,7,1910,NA,Missing data,,
+Cd9,Tekna,,28,-11,1900,4,"Slavery, hereditary",,justinard1908
+Ce1,Gheg,,42,20,1900,1,Absence of slavery,,coon1950; durham1909; durham1928; hasluck1954; lane1923; pisko1896
+Ce2,Portuguese,,42,-7,1950,1,Absence of slavery,,atkinson1953; dias1953; entwistle1953
+Ce3,Ancient Romans,,42,12,100,4,"Slavery, hereditary",,abbott1917; balsdon1963; balsdon1969; carcopino1940; davis1959; friedlander1908; glover1927; grant1960; harrison1913; maxey1938; paoli1963; pellisson1901; pliny1969; rostovtzeff1945
+Ce4,French Basques,,43,-1,1930,1,Absence of slavery,,carobaroja1944; carobaroja1958; douglass1969; greenwood1971; madariaga1940
+Ce5,Neapolitans,,40.89,14.25,1960,1,Absence of slavery,,parsons1964
+Ce6,Spaniards,,37,-6,1950,1,Absence of slavery,,pittrivers1954
+Ce7,Greeks,,39,23,1950,1,Absence of slavery,,firedl1962
+Ce8,Spanish Basques,,43,-2,1934,1,Absence of slavery,,carobaroja1944; douglass1967
+Cf1,New Englanders,,42,-73,1920,1,Absence of slavery,,murdocknd
+Cf2,Boers,,-16,28,1850,2,"Slavery, nonhereditary",,fisher1900; keane1900; lobb1937; walker1928
+Cf3,Tristan da Cunha,,-37.11,-12.27,1930,1,Absence of slavery,,munch1945
+Cf4,Brazilians,,-23.68,-46.64,1940,4,"Slavery, hereditary",,pierson1951
+Cf5,French Canadians,,47,-72,1930,1,Absence of slavery,,miner1939
+Cg1,Dutch,,53,7,1950,1,Absence of slavery,,coon1939; keurandkeur1955
+Cg2,Icelanders,,64,-20,1100,4,"Slavery, hereditary",,dasent1861; johnson1930; merrill1964
+Cg3,Irish,,53,-9,1930,1,Absence of slavery,,arensbergandkimball1940; cresswell1969; evans1957; kane1970; kane1972; odonoghue1958
+Cg4,Sami,,68,22,1950,1,Absence of slavery,,bernatzik1938; collinder1949; haglund1935; karsten1955; manker1953; minn1955; pehrson1951; pehrson1954; pehrson1957; whitaker1955
+Cg5,Walloons,,50,5,1950,1,Absence of slavery,,turneyhigh1953
+Ch1,Serbs,,44,20,1950,1,Absence of slavery,,coon1949; halpern1956; halpern1957
+Ch10,Romanians,,45,26,1910,NA,Missing data,,
+Ch11,Russians,,53,41,1955,1,Absence of slavery,,altandalt1959; benet1970; black1960; dunn1971a; dunn1971b; dunnanddunn1963; dunnanddunn1967; fainsod1958; fitzsimmons1957; maceandmace1963; schapiro1960
+Ch2,Hutsuls,,49,24,1890,1,Absence of slavery,,kaindl1894; koenig1935; szuchiewicz190208
+Ch3,Czechs,,50,16,1940,1,Absence of slavery,,hajda1955; pospisilnd
+Ch4,Mari,,43,46,1900,1,Absence of slavery,,heffner1955; wichmann1913
+Ch5,Bulgarians,,43,24,1940,1,Absence of slavery,,sanders1949; vatez1904
+Ch6,Byelorussians,,55,28,1910,1,Absence of slavery,,ember1954
+Ch7,Ukrainians,,48,36,1930,1,Absence of slavery,,friedrich1954
+Ch8,Magyar,,47,20,1940,1,Absence of slavery,,hanzeli1955
+Ch9,Lithuanians,,55,24,1930,1,Absence of slavery,,maciuika1955
+Ci1,Kalmyk,,46,46,1920,NA,Missing data,,
+Ci10,Armenians,,40,45,1900,1,Absence of slavery,,haxthausen1854; karst190707; klidschian1911; kohler1906
+Ci11,Kurd,,32,44,1940,1,Absence of slavery,,barth1953; hansen1961; leach1938; longrigg1953; masters1953
+Ci12,Abkhaz,,43,41,1880,4,"Slavery, hereditary",,byhan1926; dzhanashvili1894; lotz1956; luzbetak1951
+Ci2,Khevsur,,43,45,1930,1,Absence of slavery,,grigolia1939
+Ci3,Kumyk,,42,48,1900,NA,Missing data,,
+Ci4,Cherkess,,44,42,1920,3,"Slavery, no info on heritability",,castagne1929; ladysenskij1929
+Ci5,Turks,,38,30,1950,1,Absence of slavery,,hanson1955; lerner1958; makal1954; pierce1964; stirling1953; stirling1963; stirling1965; yasa1957
+Ci6,Ossetians,,43,44,1880,4,"Slavery, hereditary",,kovalevsky1888; kovalevsky1893; nioradze1923
+Ci7,Chechen,,43,46,1900,NA,Missing data,,
+Ci8,Georgians,,42,45,1850,4,"Slavery, hereditary",,abasadse1894; allen1932; haxthausen1854
+Ci9,Svan,,43,43,1910,1,Absence of slavery,,grigolia1939
+Cj1,Syrians,,36,36,1950,1,Absence of slavery,,sweet1960
+Cj10,Madan,,31,47,1950,4,"Slavery, hereditary",,salim1962; thesiger1964
+Cj2,Rwala,,33,37,1920,4,"Slavery, hereditary",,ashkenazi1948; musil1928; raswan1947
+Cj3,Hebrews,,32,35,-800,4,"Slavery, hereditary",,balyn1957; bright1959; dalman1932; devaux1961; forbes1964; holybiblend; noth1966; patai1961
+Cj4,Babylonians,,32,45,-2000,4,"Slavery, hereditary",,contenau1954; delaporte1925; driverandmiles195255; gadd1965; saggs1962; saggs1965; thompson1923
+Cj5,Mutair,,28,47,1930,4,"Slavery, hereditary",,dickson1949
+Cj6,Jordanians,,32,36,1950,1,Absence of slavery,,granqvist193135; harris1958
+Cj7,Lebanese,,34,36,1950,1,Absence of slavery,,davies1949; gulick1953; gulick1955; gulick1956; patai1956; prothro1961; tannous1949; touma1958
+Cj8,Druze,,32.77,35.03,1930,4,"Slavery, hereditary",,kasdan1961; kasdan1965
+Cj9,Yemeni,,15,45,1950,4,"Slavery, hereditary",,hazard1956
+Ea1,Sindhi,,25,68,1950,NA,Missing data,,
+Ea10,Marri,,30,69,1950,4,"Slavery, hereditary",,pehrson1966
+Ea11,Ghilzai,,33,68,1950,4,"Slavery, hereditary",,broadfoot1885; wilber1962
+Ea12,Qashqui,,30,52,1940,NA,Missing data,,
+Ea13,Punjabi,,32,73,1950,1,Absence of slavery,,callardandwheeler1963; dass1954; eglar1957; eglar1960; honigmann1957; honigmann1958; kennedy1957; palmer1961; symonds1950; wilbur1964
+Ea2,Yusufzai,,35,72,1950,3,"Slavery, no info on heritability",,barth1956a; barth1959; honigmann1953
+Ea3,Hazara,,35,66,1930,3,"Slavery, no info on heritability",,bacon1958; hudsonandbeacon1941; schurmann1962; wilber1956
+Ea4,Kohistani,,35,73,1950,NA,Missing data,,
+Ea5,Nuristani,,36,71,1890,4,"Slavery, hereditary",,robertson1896; wilber1956
+Ea6,Basseri,,30,34,1958,1,Absence of slavery,,barth1961; barth1964
+Ea7,Moghol,,34,63,1950,NA,Missing data,,
+Ea8,Bakhtiari,,33,48,1920,4,"Slavery, hereditary",,feilberg1952; wilson1926
+Ea9,Iranians,,36,52,1950,4,"Slavery, hereditary",,vreeland1957
+Eb1,Kazakh,,48,70,1910,4,"Slavery, hereditary",,castagn1930; grodekov1889; hudson1938; murdock1934b:135-162; radloff1893; sedelnikov1903
+Eb2,Tu,,39,100,1920,3,"Slavery, no info on heritability",,krader1963; schram1954
+Eb3,Khalka,,46,97,1940,4,"Slavery, hereditary",,ballis1956; friters1949; maiskii1921; rupen1956; vreeland1954
+Eb4,Dagur,,49,125,1940,1,Absence of slavery,,vreeland1954
+Eb5,Turkmen,,38,62,1910,3,"Slavery, no info on heritability",,freikin1954; odonovan1882
+Eb6,Buryat,,52,107,1900,3,"Slavery, no info on heritability",,krader1954a; krader1954b; krader1957; krader1963
+Eb7,Chahar,,41,115,1930,4,"Slavery, hereditary",,krader1954b; vreeland1954
+Eb8,Uzbek,,43,60,1800,NA,Missing data,,
+Ec1,Nivkh,,53,142,1920,1,Absence of slavery,,chard1961; hawes1903; ivanovetal1964; schrenck1881; seeland1882; shternberg1933a
+Ec10,Ob Ostyak,,62,74,1880,3,"Slavery, no info on heritability",,ahlqvist1885; harva193940; rabot1889; steinitz1938
+Ec11,Selkup,,59,90,1900,1,Absence of slavery,,donner1932; donner1954
+Ec2,Yakut,,65,125,1900,3,"Slavery, no info on heritability",,chodzidlo1951; gayton1948b; jochelson1933; priklonskii1953; sumner1901
+Ec3,Chukchi,,66,177,1900,2,"Slavery, nonhereditary",,bogoras1901a; bogoras1901b; krenova1936; orlovshii1928; sverdrup1938
+Ec4,Yurak-Samoyeds,,68,75,1900,1,Absence of slavery,,castren1853; donner1954; englehardt1899; hajdu1963; islavin1847; jackson1895a; jackson1895b; kopytoff1955; rae1875
+Ec5,Koryak,,61.99,164.24,1900,2,"Slavery, nonhereditary",,bergman1927; czaplieka1914; jochelson190508
+Ec6,Yukaghir,,70,145,1850,2,"Slavery, nonhereditary",,jochelson191926
+Ec7,Ainu,,44,144,1900,1,Absence of slavery,,batchelor1895; batchelor1927; cornell1964; hilger1971; munro1962; murdock1934j; sugiuraandbefu1962; sutherland1948; watanabe1964b
+Ec8,Ket,,62,90,1900,1,Absence of slavery,,shimkin1939
+Ec9,Nanai,,47,132,1920,3,"Slavery, no info on heritability",,lattimore1933
+Ed1,Koreans,,38.134147,126.960754,1950,4,"Slavery, hereditary",,dallet1874; hewesandkim1952; heydrich1931; kang1931; osgood1951; rutt1964
+Ed10,Shantung,,37,118,1930,NA,Missing data,,
+Ed13,Ishigakians,,24.46,124.14,1940,NA,Missing data,,
+Ed14,Man,,22,105,NA,NA,Missing data,,
+Ed15a,Miyakans,,24.79,125.32,1950,NA,Missing data,,
+Ed15b,Chekiang,,31,120,1936,1,Absence of slavery,,chien1967; fei1946; fried1953; lang1946; linebargeretal1956; smith1970
+Ed16,Cantonese,,23,113,1940,NA,Missing data,,
+Ed2,Lolo,,29,103,1940,4,"Slavery, hereditary",,dollone1912; lebaretal1964:19-27; lin1961; litard1913; pollard1921; tseng1945
+Ed3,Manchu,,45,126,1920,2,"Slavery, nonhereditary",,shirokogoroff1924
+Ed4,Miao,,26,107,1940,1,Absence of slavery,,mark1967; ruey1960
+Ed5,Japanese,,35,136,1950,1,Absence of slavery,,beardsleyetal1959; brownnd; buckandmasland1950:591-710; devos1965; devosandwagatsuma1967; norbeck1954; smithandcornell1956
+Ed6,Min Chinese,,24,115,1920,2,"Slavery, nonhereditary",,kulp1925
+Ed7,Okinawans,,26.16,127.8,1950,1,Absence of slavery,,glacken1955; maetzkiandmaetzki1963; maretzki1957; pittsetal1955
+Ed8,Minchia,,26,100,1930,1,Absence of slavery,,fitzgerald1941
+Ed9,Li,,19,109,1930,NA,Missing data,,
+Ee1,Adi,,28,95,1940,4,"Slavery, hereditary",,duffsutherlanddunbar1915; roy1960
+Ee2,Burusho,,37,75,1930,NA,Missing data,,
+Ee3,Lepcha,,28,89,1930,4,"Slavery, hereditary",,dasandbanerjee1962; gorer1938; morris1938
+Ee4,Central Tibetans,,30,91,1920,3,"Slavery, no info on heritability",,bell1924; bell1928; benedict1942; cammann1951; carrasco1959; das1902; ekvall1961; ekvall1964; kawaguchi1909; ma1947; macdonald1929; psybikov1919; rockhill1895; shenandliu1953; waddell1939
+Ee5,Shina,,35,73,1870,4,"Slavery, hereditary",,biddulph1880; leitner1873
+Ee6,Sherpa,,28,87,1950,4,"Slavery, hereditary",,furerhaimendorf1964
+Ee7,Kachari,,27,90,1840,NA,Missing data,,
+Ee8,Magar,,28,84,1950,3,"Slavery, no info on heritability",,hitchcock1966
+Ef1,Santal,,24,87,1940,1,Absence of slavery,,culshaw1949; das1967; dattamajumder1956; mukherjea1943
+Ef10,Bihari,,25,86,1880,NA,Missing data,,
+Ef11,Uttar Pradesh,,26,83,1945,1,Absence of slavery,,cohn1958; cohnnd; dube1956; luschinsky1963; luschinsky1971; opler1956; oplerandsingh1952; oplerandsingh1954; pandey1972; rowe1960
+Ef2,Bengali,,23,88,1940,1,Absence of slavery,,karve1953; mukherjee1949; nicholas1962; nicholas1964; sarma1951
+Ef3,Indo-Iranian,,30,75,-800,NA,Missing data,,
+Ef4,Ho,,22,85,1920,NA,Missing data,,
+Ef5,Bhil,,22,74,1900,1,Absence of slavery,,boseandray1953; hendley1875; koppers1948; naik1956
+Ef6,Kurukh,,23,85,1940,2,"Slavery, nonhereditary",,roy1915; roy1951
+Ef7,Pahari,,30,78,1950,1,Absence of slavery,,berreman1962a; berreman1962b; berreman1963
+Ef8,Kashmiri,,34,75,1950,NA,Missing data,,
+Ef9,Gujarati,,20,77,1136,NA,Missing data,,
+Eg1,Chenchu,,16,79,1940,1,Absence of slavery,,furerhaimendorf1943b
+Eg10,Telugu,,18,79,1950,1,Absence of slavery,,dube1955; guha1931; karve1953
+Eg11,Koya,,19,78,1960,NA,Missing data,,
+Eg12,Khond,,18,82,1940,NA,Missing data,,
+Eg13,Muria Gond,,20,81,1941,1,Absence of slavery,,elwin1957
+Eg14,Reddi,,18,82,1940,1,Absence of slavery,,furerhaimendorf1945
+Eg2,Tamil,,11,79,1880,1,Absence of slavery,,goughaberle1955; goughaberlend
+Eg3,Madia,,19,81,1938,1,Absence of slavery,,grigson1938
+Eg4,Toda,,12,77,1900,1,Absence of slavery,,emeneau1941; fox1963; marshall1873; murdock1934b:107-154; peter1955; rivers1906
+Eg5,Kodavas,,12,76,1930,4,"Slavery, hereditary",,emeneau1939; srinivas1952
+Eg6,Kerala,,11,76,1799,1,Absence of slavery,,gough1961; schneiderandgough1961:385-442
+Eg7,Hill Bhuiya,,21,85,1930,1,Absence of slavery,,roy1935
+Eg8,Kol,,22,85,1940,1,Absence of slavery,,griffiths1946
+Eg9,Baiga,,22,81,1930,1,Absence of slavery,,elwin1939
+Eh1,Andamanese,,12,93,1870,1,Absence of slavery,,man1882; radcliffebrown1922
+Eh10,Betsileo,,-22,47,NA,NA,Missing data,,
+Eh2,Merina,,-19,46,1900,4,"Slavery, hereditary",,grandidierandgrandidier190828; sibree1880
+Eh3,Tanala,,-22,47,1930,4,"Slavery, hereditary",,kardiner1939; linton1933; linton1939b; murdock1959
+Eh4,Vedda,,8,81,1900,1,Absence of slavery,,bailey1863; ryanetal194950; seligmannandseligmann1911; spittel1945
+Eh5,Nicobarese,,9.17,92.77,1890,1,Absence of slavery,,man1888; man1932; svoboda189293; whitehead1924
+Eh6,Sinhalese,,7,80,1950,1,Absence of slavery,,ariyapala1956; codrington1926; doyly1929; hayley1923; leach1959; leach1960; leach1963; murphey1957; pieris1956; ryan1953a; ryan1953b; ryan1958; singer1964; tambiah1958; yalman1960; yalman1962
+Eh7,Antandroy,,-25,46,1900,4,"Slavery, hereditary",,decary193033; mcleod1964; rajohnson1908
+Eh8,Sakalava,,-21,43.93,1900,4,"Slavery, hereditary",,faublee1946; kurze188689; mcleod1964
+Eh9,Antaisaka,,-22.9,47.75,1930,4,"Slavery, hereditary",,deschamps1936
+Ei1,Garo,,26,91,1900,3,"Slavery, no info on heritability",,burling1963; playfair1909
+Ei10,Chakma,,23,92,1870,4,"Slavery, hereditary",,bessaignet1958; levistrauss1952; lewin1869
+Ei11,Aimol,,25,94,1910,1,Absence of slavery,,bose1936; needham1960; shakespear1912
+Ei12,Thado,,25,94,1910,3,"Slavery, no info on heritability",,shakespear1912; shaw1929
+Ei13,Angami,,26,94,1910,2,"Slavery, nonhereditary",,hutton1921a
+Ei14,Ao,,27,94,1920,4,"Slavery, hereditary",,mills1926; smith1925b
+Ei15,Rengma,,26,94,1930,NA,Missing data,,
+Ei16,Sema,,26,95,1910,1,Absence of slavery,,hutton1921b
+Ei17,Karbi,,26,94,1900,NA,Missing data,,
+Ei18,Palaung,,23,97,1920,NA,Missing data,,
+Ei19,Chin,,22,94,1940,4,"Slavery, hereditary",,bernotandbernot1958; careyandtuck1896; lehman1963; stevenson1943
+Ei2,Lhota,,27,94,1920,4,"Slavery, hereditary",,mills1922
+Ei20,Kuki,,23,92,1940,NA,Missing data,,
+Ei3,Burmese,,20,95,1950,3,"Slavery, no info on heritability",,brohm1963; lebaretal1964:38-44; nash1963; nash1965; scott1882; somitandwelsh1956; trager1956
+Ei4,Maras,,22,93,1930,4,"Slavery, hereditary",,parry1932
+Ei5,Kachin,,26,97,1940,3,"Slavery, no info on heritability",,leach1945; leach1954; leach1967
+Ei6,Purum,,25,94,1930,NA,Missing data,,
+Ei7,Karen,,17.12,97.19,1910,2,"Slavery, nonhereditary",,marshall1922; mcmahon1876
+Ei8,Khasi,,26,92,1900,4,"Slavery, hereditary",,becker1909; chattopadhyay1941; guha1931; gurden1904; gurdon1907; mccormack1964; mccormack1967
+Ei9,Mogh,,20.49,92.64,1880,NA,Missing data,,
+Ej1,Lamet,,20,101,1940,1,Absence of slavery,,izikowitz1951
+Ej10,Rade,,13,108,1950,1,Absence of slavery,,donoghue1972; donoghueetal1962; lebaretal1964:251-255; sabatier1940
+Ej11,Cham,,11,108,1950,NA,Missing data,,
+Ej12,Lawa,,18,98,1960,NA,Missing data,,
+Ej13,Muong,,21,105,1940,1,Absence of slavery,,cusinier1946; lebaretal1964
+Ej14,Senoi,,4,102,1960,1,Absence of slavery,,dentan1967
+Ej15,Ancient Khmer,,13,104,1292,4,"Slavery, hereditary",,briggs1951; groslier1956; pelliot1951
+Ej16,Negri Sembilan,,2.58,102.25,1958,1,Absence of slavery,,gulick1958; lewis1962a; parmer1959; swift1965; wilkinson1911
+Ej2,Mnong Gar,,12,107,1940,2,"Slavery, nonhereditary",,condominas1957; condominas1960
+Ej3,Semang,,5,101,1920,1,Absence of slavery,,evans1937; lebaretal1964:181-186; murdock1934b:85-106; schebesta1927; schebesta1954
+Ej4,Annamese,,17,107,1950,3,"Slavery, no info on heritability",,cadire1953; coughlin1950; coughlin1965; donoghue1964; gourou1936; gourou1954; gourou1955; hickey1964; langrand1945; lintonnd; vankhoan1930
+Ej5,Khmer,,12,105,1950,3,"Slavery, no info on heritability",,aymonier190004; briggs1951; chou1902; coedes1968; delbert1961; ebihara1964; groslier1956; poreandmaspero1938; poreemaspero1958; steinberg1957
+Ej6,Moken,,11.78,98.28,1920,1,Absence of slavery,,carrapiett1909; white1922
+Ej7,Akha,,21,100,1950,1,Absence of slavery,,bernatzik1947
+Ej8,Malays,,5,103,1940,2,"Slavery, nonhereditary",,firth1943; firth1946; fraser1960; fraser1966; ginsburgandroberts1958; hebererandlehman1950; lehmann1934; wilkinson1920
+Ej9,Thai,,15,100,1940,1,Absence of slavery,,anumanrajadhon1961; benedict1943; bush1964; hanks1963; hanksandhanks1961; hauck1958; insor1963; janlekha1955; phillips1965; sharpandhanks1978; sharpetal1954
+Ia1,Atayal,,24,121,1930,2,"Slavery, nonhereditary",,ferrell1969; mabuchi1960; okada1949; ruey1955; rueynd
+Ia10,Bunun,,24,121,1930,NA,Missing data,,
+Ia11,Puyuma,,23,121,1930,NA,Missing data,,
+Ia12,Sugbuanon,,10.2,123.65,1950,1,Absence of slavery,,hart1965; hartnd; quijano1937; svelmoe1954
+Ia13,Badjau Tawi-Tawi,,5.09,119.97,1960,1,Absence of slavery,,nimmo1964; nimmo1965; nimmo1968; nimmo1969; nimmo1970
+Ia14,Tao,,22.05,121.55,1930,1,Absence of slavery,,kaneandsegawa1956; mabuchi1960; weiandliu1962
+Ia15,Manobo,,8,126,1920,2,"Slavery, nonhereditary",,garvan1931
+Ia16,Kalinga,,18,121,1910,1,Absence of slavery,,barton1949; dozier1966a; dozier1967
+Ia17,Bilaan,,6,125,1910,NA,Missing data,,
+Ia18,Bisayan,,10,123,1950,NA,Missing data,,
+Ia2,Sagada,,17,121,1950,1,Absence of slavery,,bacdayan1962; eggan1960
+Ia3,Ifugao,,17,121,1920,4,"Slavery, hereditary",,barton1919; barton1922; barton1930; barton1938; barton1946
+Ia4,Subanun,,8,123,1950,1,Absence of slavery,,christie1909; frake1955; frake1960
+Ia5,Hanunoo,,13,121,1950,1,Absence of slavery,,conklin1954; conklin1955; conklin1957
+Ia6,Paiwan,,22.44,120.77,1930,1,Absence of slavery,,mabuchi1960; okada1960; shih1964
+Ia7,Tagbanua,,10,119,1950,2,"Slavery, nonhereditary",,fox1954
+Ia8,Bontok,,17,121,1900,1,Absence of slavery,,jenks1905; keesing1949
+Ia9,Ami,,22.7,121.05,1930,NA,Missing data,,
+Ib1,Iban,,2,112,1950,4,"Slavery, hereditary",,freeman1955a; freeman1955b; freeman1957; freeman1958a; freeman1958b; gomes1911; howell190810; robertsandkaplan1956; roth1892; sandin1968
+Ib2,Javanese,,-7,110,1950,1,Absence of slavery,,dewey1962; geertz1960; geertz1961; geertz1963; geertz1965; grant1964; jay1963; jay1969; kahin1963; koentjaraningrat1960; koentjaraningrat1961; koentjaraningrat1967
+Ib3,Balinese,,-8.18,115.02,1950,1,Absence of slavery,,belo1936; belo1970; covarrubias1937; frankenetal1960; geertz1959a; geertz1959b; geertz1963; geertz1967; geertzandgeertz1959; grant1964; kahin1963; meadandmacgregor1951
+Ib4,Toba Batak,,2,99,1930,3,"Slavery, no info on heritability",,bartlett1929; bruner1959; loeb1933a; warneck1901
+Ib5,Kadazan-Dusun,,6,117,1920,1,Absence of slavery,,evans1922; rutter1929; williams1965; williamsnd
+Ib6,Minangkabau,,-1,101,1920,4,"Slavery, hereditary",,bachtiar1967; josselindejong1952; loeb1934; willinck1915
+Ib7,Mentaweians,,-2.93,100.23,1920,1,Absence of slavery,,kruyt1923; loeb1928; wallace1951
+Ib8,Anak Dalam,,-3,103,1900,1,Absence of slavery,,hagen1908; schebesta1928
+Ib9,Punan,,3,115,1950,NA,Missing data,,
+Ic1,Macassarese,,-5.31,119.69,1940,4,"Slavery, hereditary",,chabot1950
+Ic10,Tobelorese,,1,128,1910,4,"Slavery, hereditary",,hueting1921; riedel1885
+Ic11,Ambonese,,-3.71,128.18,1950,4,"Slavery, hereditary",,cooley1962a; cooley1962b
+Ic12,Sumbawanese,,-8.63,117.27,1951,1,Absence of slavery,,goethals1967
+Ic13,Kodi,,-9.66,119.07,1950,NA,Missing data,,
+Ic2,Alorese,,-8.22,124.26,1940,2,"Slavery, nonhereditary",,dubois1940; dubois1941; dubois1944; dubois1945
+Ic3,Belu,,-9,126,1950,4,"Slavery, hereditary",,vroklage1952
+Ic4,Rotinese,,-10.71,123.18,1920,2,"Slavery, nonhereditary",,kruyt1921; wetering1925
+Ic5,Toradja,,-2,121,1910,3,"Slavery, no info on heritability",,adrianiandkruijt1912; downs1956; drabbe1940
+Ic6,Tanimbarese,,-8.19,130.96,1930,2,"Slavery, nonhereditary",,drabbe1940
+Ic7,Ili-Mandiri,,-8.33,122.85,1920,4,"Slavery, hereditary",,vatter1932
+Ic8,Kei,,-5.58,133.07,1890,4,"Slavery, hereditary",,pleyte1893
+Ic9,Sumbanese,,-10,120,1930,4,"Slavery, hereditary",,nooteboom1940
+Id1,Northern Aranda,,-24,134,1900,1,Absence of slavery,,murdock1934b:20-47; spencerandgillen1927; strehlow190711
+Id10,Walbiri,,-22,132,1930,1,Absence of slavery,,meggitt1962a
+Id11,Gidjingali,,-12.29,134.32,1950,1,Absence of slavery,,hiatt1965
+Id12,Yir Yoront,,-15,142,1930,1,Absence of slavery,,sharp1934
+Id13,Anindilyagwa,,-13.99,136.6,1930,1,Absence of slavery,,rose1960
+Id2,"Yolngu, Dhuwal",,-12.48,135.96,1930,1,Absence of slavery,,berndt1955; elkin1950; warner1937
+Id3,Tiwi,,-11.56,130.81,1920,1,Absence of slavery,,basedow1913; goodale1959; goodale1960; goodale1962; goodale1971; hartandpilling1960; mountford1958; pilling1957
+Id4,Diyari,,-28,138,1900,1,Absence of slavery,,berndt1953; elkin1940a; gason1874; howitt1891; howitt1904
+Id5,Kariyarra,,-21,118,1910,1,Absence of slavery,,radcliffebrown1913; radcliffebrown1930; romneyandepling1958
+Id6,Wikmunkan,,-14,142,1920,1,Absence of slavery,,mcconnel1930; mcconnel1934; mcconnel1940; needham1962; thomson1935; thomson1936
+Id7,Murriny Patha,,-14,130,1940,NA,Missing data,,
+Id8,Tasmanians (northwestern),,-42,146,1830,1,Absence of slavery,,roth1890
+Id9,Ngiyambaa,,-32,146,1910,1,Absence of slavery,,howitt1904; radcliffebrown1923
+Ie1,Mee,,-4,136,1950,1,Absence of slavery,,pospisil1958; pospisil1960; pospisil1963a; pospisil1963b
+Ie10,Motu,,-9,147,1950,1,Absence of slavery,,belshaw1957; groves1963; groves1964
+Ie11,Kakoli,,-6,144,1950,1,Absence of slavery,,bowers1964
+Ie12,Kwoma,,-4,142,1930,1,Absence of slavery,,whiting1941; whitingandreed1938
+Ie13,Kiwai,,-9,143,1920,1,Absence of slavery,,landtman1927
+Ie14,Miriam,,-9.91,144.06,1900,1,Absence of slavery,,haddon1908
+Ie15,Abelam,,-3.79,143.09,1930,1,Absence of slavery,,kaberry1941
+Ie16,Kutubu,,-6,143,1940,1,Absence of slavery,,williams194041
+Ie17,Siane,,-6,145,1940,1,Absence of slavery,,salisbury1956; salisbury1962
+Ie18,Kimam,,-7.52,138.46,1940,1,Absence of slavery,,serpenti1965
+Ie19,Marind-Amin,,-8,139,1910,1,Absence of slavery,,vanbaal1966
+Ie2,Wantoat,,-6.15,146.53,1920,1,Absence of slavery,,schmitz1960
+Ie20,Koita,,-9,147,1900,1,Absence of slavery,,seligmann1910
+Ie21,Mailu,,-10,149,1900,1,Absence of slavery,,malinowski1916
+Ie22,Mekeo,,-9,147,1900,1,Absence of slavery,,belshaw1951; seligmann1910; williamson1913
+Ie23,Muju,,-6,141,1950,1,Absence of slavery,,schoorl1957
+Ie24,Koiari,,-9,148,1870,1,Absence of slavery,,chalmers1890; lawes1879
+Ie25,Mafulu,,-8,147,1920,1,Absence of slavery,,williamson1912
+Ie26,Ngarawapum,,-6,146,1940,1,Absence of slavery,,read1946; read1950
+Ie27,Banaro,,-4.56,144.34,1910,1,Absence of slavery,,thurnwald1916
+Ie28,Busama,,-6.69,147.26,1940,1,Absence of slavery,,hogbin194647; hogbin1946b
+Ie29,Manam,,-4.08,145.03,1930,1,Absence of slavery,,wedgwood1934; wedgwood1937
+Ie3,Arapesh,,-4,144,1930,1,Absence of slavery,,mead1935; mead1937c; mead194049; mead1950a; mead1950b
+Ie30,Mimika,,-4,135,1950,1,Absence of slavery,,pouwer1955
+Ie31,Fore,,-6,145,1950,1,Absence of slavery,,berndt1962
+Ie32,Sio,,-6,147,1964,1,Absence of slavery,,groves1934; harding1967
+Ie33,Soromadja,,-2,138,1950,1,Absence of slavery,,oosterwal1967
+Ie34,Bgu,,-2.34,139.6,1960,NA,Missing data,,
+Ie35,Iatmul,,-4,143,1930,1,Absence of slavery,,bateson1932; bateson1936
+Ie36,Samarokena,,-3,140,1950,NA,Missing data,,
+Ie37,Star Mountain,,-5,141,1960,NA,Missing data,,
+Ie38,Dani,,-4,139,1960,1,Absence of slavery,,heider1965; heider1967
+Ie39,Elema,,-7.82,145.31,1920,1,Absence of slavery,,williams1940
+Ie4,Wogeo,,-3.24,144.1,1930,1,Absence of slavery,,hogbin1935; hogbin193839; hogbin1943; hogbin1945; hogbin1946a; hogbin1946c
+Ie5,Keraki,,-9,142,1930,1,Absence of slavery,,williams1936
+Ie6,Waropen,,-2.14,137.23,1930,2,"Slavery, nonhereditary",,held1947
+Ie7,Enga,,-6,144,1950,1,Absence of slavery,,elkin1953; goodenough1953; meggitt1956; meggitt1958; meggitt1962b; meggitt1965a; meggitt1965b; meggitt1967
+Ie8,Purari,,-7,145,1910,1,Absence of slavery,,holmes1924; maher1961; maher1967; williams1924
+Ie9,Orokaiva,,-9,148,1920,1,Absence of slavery,,reay1953; waddellandkrinks1968; williams1928; williams1930
+If1,Palauans,,7.45,134.54,1940,1,Absence of slavery,,barnett1949; barnett1960; force1960; keate1788; kramer1929; kubary1873; kubary1900; murdocketal1944b; semper1873
+If10,Nomoians,,6.89,152.74,1940,NA,Missing data,,
+If11,Kosraeans,,5.31,162.98,1860,1,Absence of slavery,,sarfert1919
+If12,Bikinians,,11.7,165.29,1940,1,Absence of slavery,,mason1954
+If13,Nauruans,,-0.53,166.92,1900,1,Absence of slavery,,hambruch191415; stephen1936; wedgwood1936
+If14,Makin,,3.38,172.99,1890,1,Absence of slavery,,finsch1893; grimble1921; kramer1906:253-315; lambert1963; lambert1964; lambert1968; lambert1970a; lambert1970b
+If15,Carolinians,,15.21,145.76,1930,1,Absence of slavery,,josephandmurray1951; spehr1954
+If16,Lamotrek,,7.46,146.38,1960,1,Absence of slavery,,alkire1965
+If17,Marshallese - Jaluit atoll,,6.28,169.49,1900,1,Absence of slavery,,erdland1914; spoehr1949
+If2,Trukese,,7.34,151.6,1940,1,Absence of slavery,,bollig1927; fischer1950; gladwinandsarason1953; goodenough1949; goodenough1969; lebar1964; murdocketal1944a
+If3,Majuro,,7.09,171.13,1940,1,Absence of slavery,,spoehr1949
+If4,Ifaluk,,7.25,144.46,1940,1,Absence of slavery,,burrows1949; burrowsandspiro1953; damm1938; spiro1949
+If5,Ponapeans,,6.88,158.22,1910,1,Absence of slavery,,bascom1965; hambruch193236; riesenberg1949
+If6,Yapese,,9.55,138.13,1910,1,Absence of slavery,,huntetal1949; muller1917; murdocketal1944b; salesius1906; schneider1953; schneider1957c; schneider1962; schneidernd; senfft1903; tetens1958; tetensandkubary1873
+If7,Gilbert Onotoa,,-1.47,175.06,1940,2,"Slavery, nonhereditary",,goodenough1951b; goodenough1955; knudson1965; lundsgaarde1966
+If8,Chamorro,,15.13,145.71,1950,1,Absence of slavery,,josephandmurray1951; spoehr1954
+If9,Ulithians,,10.02,139.79,1900,1,Absence of slavery,,lessa1950; william1966
+Ig1,Siuai,,-6,155,1940,1,Absence of slavery,,oliver1949; oliver1955
+Ig10,Usiai,,-2,147,1950,1,Absence of slavery,,schwartz1964
+Ig11,Rossel Islanders,,-11.36,154.14,1920,1,Absence of slavery,,armstrong1928
+Ig12,Choiseulese,,-6.69,156.52,1900,2,"Slavery, nonhereditary",,scheffler1965
+Ig13,Aua,,-1.74,142.85,1900,2,"Slavery, nonhereditary",,hambruch1907; pittrivers1925
+Ig14,Dahuni,,-10.41,149.91,1900,1,Absence of slavery,,belshaw1955; seligman1910
+Ig15,Bakovi,,-5.42,150.05,1950,NA,Missing data,,
+Ig16,Bwaidoga,,-9.44,150.33,1950,NA,Missing data,,
+Ig17,Kombe,,-4.67,149.53,1950,NA,Missing data,,
+Ig18,Kwaio,,-9,161,1960,NA,Missing data,,
+Ig19,Molima,,-10,151,1950,NA,Missing data,,
+Ig2,Trobriands,,-8.43,151.09,1910,1,Absence of slavery,,fathauer1954a; malinowski1921; malinowski1922; malinowski1926; malinowski1927; malinowski1929; malinowski1935; powell1960; silas1926; uburoi1962
+Ig20,Kaoka,,-9.49,159.82,1920,NA,Missing data,,
+Ig21,Tangu,,-3.38,153.31,1930,1,Absence of slavery,,bell1934; bell1938
+Ig3,Kurtatchi,,-5.6,154.91,1930,1,Absence of slavery,,blackwood1935
+Ig4,Lesu,,-3.06,151.66,1930,1,Absence of slavery,,powdermaker1931a; powdermaker1931b; powdermaker1932; powdermaker1933
+Ig5,Dobuans,,-10,151,1920,1,Absence of slavery,,fortune1932b
+Ig6,Ulawans,,-9.63,161.44,1900,1,Absence of slavery,,ivens1927
+Ig7,Lakalai,,-5.5,150.81,1950,1,Absence of slavery,,chowning1957; goodenough1962
+Ig8,Simboese,,-8,157,1910,NA,Missing data,,
+Ig9,Manus,,-2,147,1920,1,Absence of slavery,,fortune1935; mead1930a; mead1930b; mead1932a; mead1934; mead1937b; mead1969
+Ih1,Mota,,-13.84,167.7,1890,1,Absence of slavery,,codrington1891; rivers1914a
+Ih10,Tannese,,-19.6,169.44,1920,1,Absence of slavery,,humphreys1926
+Ih11,Epi,,-16.61,168.17,1920,NA,Missing data,,
+Ih12,Eromangans,,-18.85,169.16,1920,NA,Missing data,,
+Ih13,Ranon,,-16.18,168.15,1920,NA,Missing data,,
+Ih14,Mbau Fijians,,-17.81,178.32,1840,1,Absence of slavery,,deane1921; ross1953; spencer1941; thomson1908; tippett1968; toganivalu1917; tonganivalu1911; waterhouse1866; williams1884
+Ih2,Seniang,,-16.51,167.47,1930,1,Absence of slavery,,deacon1934
+Ih3,Bunlap,,-15.95,168.22,1950,1,Absence of slavery,,lane1956; lane1965; laneandlane1957
+Ih4,Lau,,-17.74,-179.31,1920,1,Absence of slavery,,geddes1946; hocart1929; quain1948; thompson1940a; thompson1940b
+Ih5,Ajie,,-21.37,165.47,1860,1,Absence of slavery,,barrau1956; guiart1956b; guiart1963; leenhardt1930; leenhardt1937
+Ih6,Rotumans,,-12.5,177.07,1890,1,Absence of slavery,,gardner1897; howardandhoward1964; russell1942
+Ih7,Lifu,,-20.94,167.23,1910,3,"Slavery, no info on heritability",,hadfield1920; ray1917
+Ih8,Vanua Levu,,-17.81,178.32,1940,1,Absence of slavery,,quain1949
+Ih9,Santa Cruz Islanders,,-10.73,165.85,1930,2,"Slavery, nonhereditary",,davenport1964
+Ii1,American Samoans,,-13.68,-172.41,1920,1,Absence of slavery,,buck1930; cook1942; ember1959; freeman1965; grattan1948; kramer190102; kramer1906:253-315; mead1928; mead1930c; mead1937c; mead1950b; murdock1934l; stair1897; turner1884
+Ii10,Rennell Islanders,,-11.74,160.42,1950,1,Absence of slavery,,birketsmith1956
+Ii12,Tongans,,-19.74,-175.07,1920,1,Absence of slavery,,beagleholeandbeaglehole1941; gifford1929
+Ii13,Uveans,,-13.28,-176.17,1830,1,Absence of slavery,,burrows1937
+Ii14,Upolu Samoans,,-13.94,-171.77,1829,1,Absence of slavery,,buck1930; bulow1971; davidson1948; ember1962; grattan1948; keesing1934; kramer190102; kramer1906:253-315; panoff1964; stair1897; turner1884
+Ii2,Tikopia,,-12.29,168.83,1930,1,Absence of slavery,,firth1936; firth1939; firth1940; firth1952; firth1956; firth1960
+Ii3,Pukapukans,,-10.89,-165.84,1930,1,Absence of slavery,,beagleholeandbeaglehole1938; macgregor1935
+Ii4,Ellice,,-7.48,178.68,1890,1,Absence of slavery,,kennedy1931; white1965
+Ii5,Ontong Java,,-5.48,159.7,1920,1,Absence of slavery,,hogbin1931a; hogbin1931b; hogbin1931c; hogbin1938
+Ii6,Tokelau,,-9.2,-171.85,1900,1,Absence of slavery,,macgregor1937
+Ii7,Kapingamarangi,,1.09,154.8,1910,1,Absence of slavery,,buck1950; eilers1934; emory1965
+Ii8,Futunans,,-14.31,-178.11,1840,1,Absence of slavery,,burrows1936
+Ii9,Niueans,,-19.05,-169.86,1840,1,Absence of slavery,,loeb1926a
+Ij1,Mangaians,,-21.93,-157.91,1820,1,Absence of slavery,,buck1934
+Ij10,Tongarevans,,-9.02,-158.03,1900,1,Absence of slavery,,buck1932b
+Ij2,Māori,,-38.41,176.31,1820,2,"Slavery, nonhereditary",,best1924; best1925; best1952; buck1949; cruise1824; earle1832; firth1959; gudgeon1885; hawthorn1944; maning1876; polack1838; reed1963; shortland1856; wright1959
+Ij3,Marquesans,,-8.9,-140.08,1900,1,Absence of slavery,,forster1777; handy1922; handy1923; labarre1934; linton1923; linton1939a; lisiansky1814; miranda1964; porter1823; sheahan1952; suggs1966; suggs1971; sullivan1923; tautain1896; tautain1897
+Ij4,Manihikians,,-10.41,-160.98,1850,1,Absence of slavery,,buck1932a
+Ij5,Raroians,,-15.94,-142.31,1900,1,Absence of slavery,,danielsson1954; danielsson1955
+Ij6,Hawaiians,,19.89,-155.83,1800,4,"Slavery, hereditary",,buck1957; handyetal1933; malo1951; vayda1956
+Ij7,Mangarevans,,-23.12,-134.97,1900,1,Absence of slavery,,buck1938; laval1938
+Ij8,Tahitians,,-17.71,-149.54,1900,1,Absence of slavery,,ellis1905; handy1930; henry1928
+Ij9,Easter Islanders,,-27.12,-109.36,1860,2,"Slavery, nonhereditary",,metraux1940
+Na1,Nabesna,,63,-141,1930,1,Absence of slavery,,mckennan1959
+Na10,Chugach,,60.72,-146.49,1930,3,"Slavery, no info on heritability",,birketsmith1953
+Na11,Sivokakmeit,,63.34,-170.3,1920,1,Absence of slavery,,hughes1958; hughes1960; moore1923
+Na12,Nunamiut,,68,-152,1950,1,Absence of slavery,,gubser1965; pospisilandlaughlin1963; spencer1959
+Na13,Nunatsiarmiut,,65.24,-64.63,1880,1,Absence of slavery,,boas1888; boas190107
+Na14,Inughuit (Northern Greenland),,78,-70,1880,1,Absence of slavery,,birketsmith1928b; ekblaw192728; kroeber1899; oswalt1963; rasmussen1908; steensby1910
+Na15,Tlicho,,63,-117,1860,1,Absence of slavery,,helmandlurie1961
+Na16,Délįne,,65,-119,1860,1,Absence of slavery,,osgood1931
+Na17,DeneTha,,61,-120,1860,1,Absence of slavery,,helm1961; helmandleacocknd; honigmann1946; macneish1960b; mason1946
+Na19,Dakelh,,54,-124,1880,4,"Slavery, hereditary",,jenness1943; morice1893; ray1942
+Na2,Tareumiut,,71,-157,1880,1,Absence of slavery,,chance1966; murdoch1892; spencer1959
+Na20,Kutchin,,66,-135,1880,2,"Slavery, nonhereditary",,osgood1936; slobodin1962
+Na21,Caribou Inuit,,63,-96,1900,1,Absence of slavery,,birketsmith1929; rasmussen1930
+Na22,Iglulik Inuit,,70,-82,1920,1,Absence of slavery,,birketsmith1928b; damas1964; mathiassen1928; rasmussen1929
+Na23,Labrador Inuit,,58,-65,1890,1,Absence of slavery,,hawkes1916; turner1894
+Na24,Tasiilaq,,66,-37,1880,1,Absence of slavery,,holm1911; ostermann1938; rink1911; thalbitzer1914; thalbitzer191721
+Na25,Kalaallit (West Greenland),,68.66,-51.22,1910,1,Absence of slavery,,birketsmith1924; bugge1952; cranz1767; egede1818; nansen1893; porsild1915; rink1877; saabye1818
+Na26,Dena'ina,,62,-144,1870,1,Absence of slavery,,osgood1933; osgood1937
+Na27,Tahltan,,58,-131,1870,4,"Slavery, hereditary",,emmons1911; maclachlan1957; teit1906a; teit1956
+Na28,Sekani,,56,-123,1880,1,Absence of slavery,,jenness1937
+Na29,Beaver,,58,-117,1850,1,Absence of slavery,,goddard1916
+Na3,Copper Inuit,,69,-110,1920,1,Absence of slavery,,jenness1917; jenness1922; jenness1928; rasmussen1932; stefansson1914
+Na30,Dene,,60,-105,1880,1,Absence of slavery,,birketsmith1930; macneish1960a; vanstone1965
+Na31,Eastern Cree,,51,-85,1850,1,Absence of slavery,,skinner1912
+Na32,Montagnais,,48,-72,1880,1,Absence of slavery,,burgesse1944; lane1952; leacock1969; lips1947a; lips1947b; speck1931; speck1935
+Na33,Northern Saulteaux,,52,-98,1870,1,Absence of slavery,,dunning1959b; hallowell1938a; hallowell1938b; hallowell1939; hallowell1940; hallowell1941; hallowell1942; hallowell1955; hallowell1963; skinner1912
+Na34,Pekangekum,,52,-94,1940,1,Absence of slavery,,dunning1959a; dunning1959b
+Na35,Nipigon,,50,-88,1800,1,Absence of slavery,,cameron1890; grant1890
+Na36,Minnesota Ojibwa,,49,-96,1860,1,Absence of slavery,,barnouw1950; barrett1911a; densmore1929; hesketh1923; hilger1939; hilger1951; kinietz1947
+Na37,Rainy River Ojibwe,,49,-92,1880,1,Absence of slavery,,landes1937a; landes1937b; landes1938
+Na38,Katikitegon,,46,-92,1800,1,Absence of slavery,,grant1890; kinietz1947
+Na39,Eastern Ojibwa,,46,-85,1870,1,Absence of slavery,,jenness1935
+Na4,Kaska,,59,-128,1920,1,Absence of slavery,,honigmann1949; honigmann1954; teit1956; underwoodandhonigmann1947
+Na40,Ottawa,,46,-82,1650,1,Absence of slavery,,kinietz1940c; morgan1871
+Na41,Mi'kmaq,,47,-65,1700,1,Absence of slavery,,bock1966; denys1908; johnson1943; leclercq1910; speckanddexter1951; wallisandwallis1955
+Na42,Potawatomi,,44,-85,1760,NA,Missing data,,
+Na43,Netsilik,,69,-96,1920,1,Absence of slavery,,balikei1963a; balikei1963b; rasmussen1931
+Na44,Nunavimmiut,,62,-76,1910,1,Absence of slavery,,graburn1964
+Na45,Mistissini Cree,,51.75,-72.66,1900,1,Absence of slavery,,rogers1963a; rogersandrogers1963; speck1923; speck1930
+Na5,Naskapi,,58,-70,1890,1,Absence of slavery,,lips1947a; speck1935; strong1929b; turner1890
+Na6,Nunivak,,60,-166,1930,1,Absence of slavery,,lantis1946
+Na7,Attawapiskat Cree,,53,-83,1900,1,Absence of slavery,,gmann1953; honigmann1956b
+Na8,Deg Xit'an,,62,-160,1880,1,Absence of slavery,,osgood1940; osgood1958; osgood1959
+Na9,Aleut,,53.86,-166.79,1830,4,"Slavery, hereditary",,bank1953; cook1785; coxe1804; elliott1886; golder192225; jochelson1925; langsdorff1817; lantis1970b; sarychev1806; sauer1802; veniaminov1840
+Nb1,Haida,,54,-132,1890,4,"Slavery, hereditary",,murdock1934a; murdock1934b:221-263; murdock1936a; niblack1890; swanton1909
+Nb10,Alkatcho,,53,-126,1865,4,"Slavery, hereditary",,goldman1940; goldman1941
+Nb11,Nuu chah nulth,,49.16,-125.85,1880,4,"Slavery, hereditary",,drucker1951; koppert1930b
+Nb12,Klahoose,,51,-125,1880,4,"Slavery, hereditary",,barnett1938; barnett1939; barnett1955
+Nb13,Squamish,,50,-123,1880,4,"Slavery, hereditary",,barnett1938; barnett1939; barnett1955; hilltout1900
+Nb14,Comox,,49.72,-124.97,1880,4,"Slavery, hereditary",,barnett1938; barnett1939; barnett1955
+Nb15,Lummi,,48.84,-123.27,1880,4,"Slavery, hereditary",,curtis1912; stern1934; suttles1954
+Nb16,Klallam,,48,-123,1860,4,"Slavery, hereditary",,eells1887b; gunthere1927
+Nb17,Puyallup,,47,-122,1870,2,"Slavery, nonhereditary",,ballard1935; haeberlinandgunther1930; smith1940b
+Nb18,Quileute,,47.91,-124.59,1880,4,"Slavery, hereditary",,pettitt1950
+Nb19,Lower Chinook,,45.99,-123.77,1850,4,"Slavery, hereditary",,ray1938; ray1942
+Nb2,Twana,,48,-123,1850,4,"Slavery, hereditary",,eells1877; elmendorf1960
+Nb20,Tillamook,,44.75,-123.72,1870,4,"Slavery, hereditary",,barnett1937; boas1923
+Nb21,Coos,,43,-124,1860,3,"Slavery, no info on heritability",,barnett1937; jacobs1940
+Nb22,Tlingit,,58.12,-133.92,1880,4,"Slavery, hereditary",,durlach1928; jochelson1925; krause1956; oberg1934; swanton1908
+Nb23,Heiltsuk,,52,-128,1880,4,"Slavery, hereditary",,boas1938; drucker1950; olson1955
+Nb24,Makah,,48.33,-124.62,1860,4,"Slavery, hereditary",,colson1953; swan1868
+Nb25,Quinault,,47.42,-124.16,1860,4,"Slavery, hereditary",,olson1936a; willoughby1889
+Nb26,Cowichan,,49.01,-122.73,1880,4,"Slavery, hereditary",,barnett1938; barnett1939; barnett1955; lane1963a
+Nb27,Stó:lō,,49,-122,1880,4,"Slavery, hereditary",,duff1952; hilltout1902; hilltout1904
+Nb28,Alsea,,44,-124,1860,4,"Slavery, hereditary",,barnett1937; drucker1939
+Nb29,Siuslaw,,44,-124,1860,4,"Slavery, hereditary",,barnett1937; frachtenberg1914
+Nb3,Kwakwaka'wakw,,51,-127.49,1890,4,"Slavery, hereditary",,benedict1934; boas1895b; boas1909; boas1966; codere1950; ford1941; goldman1937a; rohner1965
+Nb30,Takelma,,42,-123,1860,3,"Slavery, no info on heritability",,sapir1907
+Nb31,Tututni,,42,-124,1870,2,"Slavery, nonhereditary",,barnett1937; drucker1936a; dubois1936
+Nb32,Shasta,,41,-122,1860,2,"Slavery, nonhereditary",,dixon1907; holt1946; kroeber1925d; voegelin1942
+Nb33,Chimariko,,41,-123,1860,1,Absence of slavery,,dixon1910; driver1939
+Nb34,Karuk,,42,-123,1860,2,"Slavery, nonhereditary",,driver1939; gifford1922:31-33; kroeber1925c
+Nb35,Hupa,,41,-123,1860,2,"Slavery, nonhereditary",,driver1939; goddard1903; kroeber1934; taylor1947; wallace1947b
+Nb36,Wiyot,,39.81,-123.55,1860,2,"Slavery, nonhereditary",,driver1939; gifford1922:29-30; kroeber1925a
+Nb37,Lassik,,40,-123,1860,NA,Missing data,,
+Nb38,Mattole-Bear River,,40.35,-123.47,1860,NA,Missing data,,
+Nb39,Sinkyone,,39.73,-123.6,1860,1,Absence of slavery,,driver1939; nomland1935
+Nb4,Yurok,,41,-124,1850,2,"Slavery, nonhereditary",,erickson1943; heizerandmills1952; kroeber1925b; kroeber1960; loeffelholz1893; watermanandkroeber1934
+Nb5,Eyak,,60.34,-144.85,1890,2,"Slavery, nonhereditary",,birketsmithanddelaguna1938
+Nb6,Tolowa,,42,-124,1870,2,"Slavery, nonhereditary",,driver1939; drucker1936a; dubois1932
+Nb7,Tsimshian,,54.64,-130.25,1880,4,"Slavery, hereditary",,garfield1939; garfieldetal1951
+Nb8,Haisla,,54,-129,1880,4,"Slavery, hereditary",,lopatin1945; olson1940
+Nb9,Nuxalk,,52,-127,1880,4,"Slavery, hereditary",,boas1891b; drucker1950; mcilwraith1948; smith1925a
+Nc1,Nomlaki,,39,-122,1850,1,Absence of slavery,,goldschmidt1951
+Nc10,Achumawi,,41,-121,1860,1,Absence of slavery,,goldman1940; goldman1941
+Nc11,Yana,,41,-122,1860,1,Absence of slavery,,gifford1928; giffordandkroeber1936; sapir1918; sapirandspier1943
+Nc12,Maidu,,40,-121,1850,1,Absence of slavery,,dixon1905; gifford1922:46-47; voegelin1942
+Nc13,Nisenan,,39,-121,1850,1,Absence of slavery,,beals1933; faye1923; voegelin1942
+Nc14,Wintu,,41,-122,1860,1,Absence of slavery,,dubois1935; gifford1922; lee1940; voegelin1942; washington1909
+Nc15,Coast Yuki,,39.34,-123.77,1860,1,Absence of slavery,,driver1939; gifford1939
+Nc16,Huchnom,,39,-123,1860,1,Absence of slavery,,foster1944; gifford1922:118-119
+Nc17,Northern Pomo,,39,-123,1860,1,Absence of slavery,,essene1942; gifford1922:109-111; giffordandkroeber1937a
+Nc18,Eastern Pomo,,39,-123,1860,1,Absence of slavery,,aginskyandaginsky1967; barrett1908; barrett1916; barrett1917a; barrett1952; freeland1923; gifford1926a; giffordandkroeber1937b; kroeber1953; loeb1926b
+Nc19,Southern Pomo,,38.55,-122.94,1860,1,Absence of slavery,,aginsky1935; gifford1922:113-115; giffordandkroeber1937a
+Nc2,Tübalulabal,,39,-118,1850,1,Absence of slavery,,gifford1917; voegelin1938
+Nc20,Wappo,,38.22,-122.56,1860,2,"Slavery, nonhereditary",,driver1936; gifford1922:115-118; radin1924
+Nc21,Lake Miwok,,38.75,-123.2,1860,1,Absence of slavery,,gifford1922:91-93; giffordandkroeber1937a
+Nc22,Patwin,,39,-122,1850,1,Absence of slavery,,giffordandkroeber1937a; kroeber1932; mckern1922; mckern1924
+Nc23,Western Mono,,37,-119,1870,1,Absence of slavery,,aginsky1943; driver1937; gayton1930; gayton1945; gayton1948a; gifford1922
+Nc24,Southern Valley Yokuts,,36,-120,1860,1,Absence of slavery,,bealsandhester1958; cook1955; gayton1936; gayton1948a; kroeber1925e; latta1949; powers1877
+Nc25,Wukchumni,,36,-119,1860,1,Absence of slavery,,bealsandhester1958; cook1955; gayton1936; gayton1948a; kroeber1925e; latta1949; powers1877
+Nc26,Salinan,,36,-121,1770,1,Absence of slavery,,harrington1942; mason1912
+Nc27,Kawaiisu,,35,-118,1860,1,Absence of slavery,,driver1937; gifford1917
+Nc28,Chumash,,34.44,-119.71,1800,1,Absence of slavery,,harrington1942; kroeber1925f
+Nc29,Tongva,,34,-118,1770,1,Absence of slavery,,harrington1942; johnston1964; kroeber1925h; reid1926
+Nc3,Northern Foothill Yokuts,,36,-120,1850,1,Absence of slavery,,driver1937; gayton1930; gayton1948a; kroeber1925e
+Nc30,Serrano,,34,-117,1870,1,Absence of slavery,,benedict1924; drucker1937; gifford1918:178-186; gifford1922:53-56; strong1929a:5-35
+Nc31,Cahuilla (Desert),,33,-116,1870,1,Absence of slavery,,drucker1937; gifford1918:186-201; gifford1922:56-60; hooper1920; strong1929a:5-35
+Nc32,Cupeño,,33,-117,1870,1,Absence of slavery,,drucker1937; gifford1918:186-201; gifford1922:56-60; hooper1920; strong1929a:5-35
+Nc33,Luiseño,,33,-117,1860,1,Absence of slavery,,drucker1937; dubois1908; gifford1918:201-214; harrington1934; kroeber1917a; malccot1964; sparkman1908; strong1929a:5-35; white1963
+Nc34,Kiliwa,,31,-115,1880,1,Absence of slavery,,meigs1939
+Nc4,Atsugewi,,41,-121,1860,1,Absence of slavery,,garth1944; garth1953; voegelin1942
+Nc5,Central Sierra Miwok,,38,-120,1850,1,Absence of slavery,,aginsky1943; barrettandgifford1933; gifford1916; gifford1926c; gifford1955
+Nc6,Kumeyaay,,32,-116,1850,1,Absence of slavery,,drucker1937; gifford1922:68-71; luomala1963; spier1923
+Nc7,Yuki,,40,-123,1850,1,Absence of slavery,,essene1942; foster1944; gifford1922:118-122
+Nc8,Klamath,,43,-122,1860,2,"Slavery, nonhereditary",,gatschet1890; pearsall1950; spier1930; stern1965; voegelin1942
+Nc9,Modoc,,42,-122,1860,2,"Slavery, nonhereditary",,ray1963; voegelin1942
+Nd1,Tenino,,45,-121,1850,2,"Slavery, nonhereditary",,murdock1958; ray1942
+Nd10,Nlaka'pamux,,50,-122,1860,4,"Slavery, hereditary",,ray1942; teit1900
+Nd11,Shuswap,,51,-120,1850,2,"Slavery, nonhereditary",,ray1942; teit1909
+Nd12,Bitterroot Salish,,46,-113,1860,2,"Slavery, nonhereditary",,ray1942; teit1930; turneyhigh1937
+Nd13,Kalispel,,49,-117,1860,1,Absence of slavery,,ray1942; teit1930
+Nd14,Coeur d’Alene,,48,-117,1860,2,"Slavery, nonhereditary",,ray1942; teit1930
+Nd15,Sinkaitk,,49,-120,1880,1,Absence of slavery,,clineetal1938
+Nd16,Wenatchi,,48,-121,1870,2,"Slavery, nonhereditary",,ray1942; teit1928
+Nd17,Klikitat,,46,-122,1870,2,"Slavery, nonhereditary",,jacobs1932; ray1942
+Nd18,Wishram,,46,-121,1860,4,"Slavery, hereditary",,spierandsapir1930
+Nd19,Umatilla,,46,-119,1860,2,"Slavery, nonhereditary",,ray1939; ray1942; rigsby1963
+Nd2,Southern Ute,,38,-109,1860,1,Absence of slavery,,gifford1940; hillandhill1970; lowie1924; opler1940a; stewart1942
+Nd20,Nez Perce,,45,-115,1850,2,"Slavery, nonhereditary",,curtis1911; elmendorf1963; haines1955; spiden1908
+Nd21,Tagotoka,,43,-117,1870,1,Absence of slavery,,stewart1941
+Nd22,Wadadokado,,43,-119,1870,1,Absence of slavery,,stewart1937; stewart1941; whiting1950
+Nd23,Atsakudokwa,,42,-118,1870,1,Absence of slavery,,stewart1941
+Nd24,Kidutokado,,42,-120,1870,1,Absence of slavery,,anguloandfreeland1929; kelly1932; kroeber1917a; stewart1941
+Nd25,Sawakudokwa,,41,-118,1870,1,Absence of slavery,,steward1941; stewart1941
+Nd26,Wadatkuht,,41,-120,1870,1,Absence of slavery,,riddell1960
+Nd27,Kuyuidokado,,40,-119,1860,1,Absence of slavery,,park1934; park1937; park1938a; stewart1941
+Nd28,Toedokado,,40,-118,1870,1,Absence of slavery,,stewart1941
+Nd29,Tunava (Deep Springs and Fish Lake),,37,-118,1870,1,Absence of slavery,,steward1938; steward1941
+Nd3,Havasupai,,36,-112,1870,1,Absence of slavery,,cushing1882; iliff1954; james1903; smithson1959; spier1928; wpawp1940
+Nd30,Eastern Mono,,37,-118,1870,1,Absence of slavery,,driver1937; steward1933
+Nd31,Koso,,36,-118,1850,1,Absence of slavery,,driver1937; steward1938
+Nd32,Tümpisa Shoshone (Saline and Panamint),,36,-117,1850,1,Absence of slavery,,driver1937; steward1938
+Nd33,Beatty,,37,-116,1870,1,Absence of slavery,,steward1938; steward1941
+Nd34,Lida Shoshoni,,37,-117,1870,1,Absence of slavery,,steward1938; steward1941
+Nd35,Mahaguaduka,,39,-117,1870,1,Absence of slavery,,steward1938; steward1941
+Nd36,Wiyambituka,,39,-117,1870,1,Absence of slavery,,steward1938; steward1941
+Nd37,Railroad Valley Shoshoni,,39,-116,1870,1,Absence of slavery,,steward1938; steward1941
+Nd38,Ely Shoshoni,,39,-115,1870,1,Absence of slavery,,steward1938; steward1941
+Nd39,Spring Valley Shoshoni,,40,-115,1870,1,Absence of slavery,,steward1938; steward1941
+Nd4,Sanpoil,,48,-119,1870,1,Absence of slavery,,ray1932; ray1942
+Nd40,Tubaduka,,40,-113,1870,1,Absence of slavery,,steward1938; steward1943
+Nd41,Wadaduka,,41,-116,1870,1,Absence of slavery,,steward1938; steward1941
+Nd42,Elko Shoshoni,,41,-116,1870,1,Absence of slavery,,steward1938; steward1941
+Nd43,White Knife Shoshoni,,41,-117,1860,1,Absence of slavery,,harris1940; steward1941
+Nd44,Yahanduka,,42,-115,1850,1,Absence of slavery,,steward1938; steward1941
+Nd45,Bohogue,,43,-112,1860,1,Absence of slavery,,murphyandmurphy1960; steward1938; steward1943
+Nd46,Agaiduka,,44,-112,1860,1,Absence of slavery,,lowie1909; steward1938; steward1943
+Nd47,Tukudika,,44,-111,1850,1,Absence of slavery,,hultkrantz1957; lowie1909; steward1938
+Nd48,Gosiute,,40,-114,1860,1,Absence of slavery,,malouf1950; steward1938; steward1943; stewart1942
+Nd49,Antarianunts,,37,-110,1860,1,Absence of slavery,,kelly1964; stewart1942
+Nd5,Hukundika,,42,-112,1870,1,Absence of slavery,,hoebel1939; steward1943
+Nd50,Panguitch,,38,-112,1860,1,Absence of slavery,,kelly1964
+Nd51,Moapa,,36,-115,1860,1,Absence of slavery,,lowie1924; watkins1945
+Nd52,Shivwits,,36,-117,1860,1,Absence of slavery,,drucker1941; lowie1924; stewart1942
+Nd53,Southern Paiute (Kaibab),,36,-113,1860,1,Absence of slavery,,gifford1917; kelly1938; kelly1964; stewart1942
+Nd54,Chemehuevi,,35,-115,1860,1,Absence of slavery,,drucker1937; kroeber1925g
+Nd55,Southern Paiute (Las Vegas),,36,-115,1860,1,Absence of slavery,,driver1937; steward1938; steward1941
+Nd56,San Juan,,36,-111,1860,1,Absence of slavery,,kelly1964; stewart1942
+Nd57,Pahvant,,39,-113,1860,1,Absence of slavery,,steward1938; stewart1942
+Nd58,Uintah Ute,,40,-112,1860,1,Absence of slavery,,gifford1917; lowie1924; stewart1942
+Nd59,Moanunts,,39,-112,1860,1,Absence of slavery,,stewart1942
+Nd6,Washo,,39,-120,1850,1,Absence of slavery,,barrett1917b; downs1966; freed1960; lowie1939; stewart1941
+Nd60,Moache,,37,-105,1860,1,Absence of slavery,,stewart1942
+Nd61,Taviwatsiu,,40,-105,1860,1,Absence of slavery,,stewart1942
+Nd62,Uncompahgre Ute,,39,-107,1860,1,Absence of slavery,,lowie1924; stewart1942
+Nd63,Bannock,,43,-112,1860,1,Absence of slavery,,lowie1930; murphyandmurphy1960; steward1943
+Nd64,Wind River Eastern Shoshone,,43,-109,1860,1,Absence of slavery,,hultkrantz1958; lowie1924; murphyandmurphy1960; shimkin1947a; shimkin1947b
+Nd65,Hualapai,,36,-114,1870,1,Absence of slavery,,drucker1941; kniffenetal1935
+Nd66,Yavapai,,35,-112,1870,1,Absence of slavery,,drucker1941; gifford1936
+Nd67,Tolkepaya,,34,-114,1870,1,Absence of slavery,,gifford1936
+Nd7,Kutenai,,50,-117,1880,2,"Slavery, nonhereditary",,boas1918; chamberlain1892; ray1942; turneyhigh1941
+Nd8,Chilcotin,,52,-122,1880,2,"Slavery, nonhereditary",,lane1963b; morice1893; ray1942; teit1907
+Nd9,Lillooet,,50.02,-124.78,1860,2,"Slavery, nonhereditary",,hilltout1905; ray1942; teit1906b
+Ne1,Gros Ventre,,48.78,-108.98,1880,1,Absence of slavery,,cooper1956; flannery1953; kroeber1908c
+Ne10,Arikara,,46,-101,1860,1,Absence of slavery,,curtis1909b; gilmore1927; lowie1912a; macgowan1942; willandhyde1917
+Ne11,Assiniboine,,48,-106,1870,1,Absence of slavery,,denig1930; lowie1910; rodnick1938
+Ne12,Blackfoot,,51,-112,1850,1,Absence of slavery,,ewers1958; hanksandrichardson1945; wissler1910; wissler1911
+Ne13,Kainai,,51,-115,1850,1,Absence of slavery,,ewers1955; goldfrank1945a; wissler1910; wissler1911
+Ne14,Bungi,,51,-100,1850,1,Absence of slavery,,hesketh1923; howard1961; howard1965a; skinner1914b
+Ne15,Hidatsa,,47,-101,1860,1,Absence of slavery,,bowers1965; curtis1909; matthews1877; wiedneuwied1906; wilson1917
+Ne16,Karankawa,,29,-96,1800,1,Absence of slavery,,gatschet1891; schaedel1949
+Ne17,Kiowa,,36,-99,1860,1,Absence of slavery,,lowie1923; mooney1898; richardson1940
+Ne18,Piegan,,49,-115,1850,1,Absence of slavery,,ewers1955; josselindejong1912; michelson1916; wissler1911
+Ne19,Plains Cree,,45,-94,1850,1,Absence of slavery,,mandelbaum1940; skinner1914a
+Ne2,Kiowa Apache,,36,-99,1870,1,Absence of slavery,,mcallister1937
+Ne20,Santee,,45,-94,1850,1,Absence of slavery,,mead1937c; riggs1893; skinner1919; wallis1947
+Ne21,Coahuilteco,,29,-99,1760,NA,Missing data,,
+Ne3,Comanche,,33,-100,1870,2,"Slavery, nonhereditary",,gladwin1948; hoebel1940; lee1957; rister1955; wallaceandhoebel1952
+Ne4,Crow,,45,-108,1870,1,Absence of slavery,,denig1953; lowie1912b; lowie1917b; lowie1919; lowie1922; lowie1935; wagnerandallen1933
+Ne5,Cheyenne,,39,-104,1860,1,Absence of slavery,,anderson1949; eggan1937b; grinnell1918; grinnell1923; hilger1946; hoebel1960; mooney190507
+Ne6,Mandan,,47,-101,1830,1,Absence of slavery,,bowers1950; lowie1917a; willandspinden1906
+Ne7,Sarcee,,54,-110,1880,1,Absence of slavery,,honigmann1956a; jenness1938
+Ne8,Teton,,43,-103,1870,2,"Slavery, nonhereditary",,curtis1908; deloria1932; dorsey1894; erikson1939; erikson1950; ewers1937; goldfrank1943; hassrick1944; hassrick1964; macgregor1946; mckeel1936; mekeel1936; mirsky1937b; niehardt1951
+Ne9,Arapaho,,40,-103,1860,1,Absence of slavery,,eggan1937b; elkin1940b; hilger1952; kroeber190207; michelson1934
+Nf10,Iowa,,41,-95,1870,1,Absence of slavery,,morgan1871; skinner1926
+Nf11,Otoe,,40,-95,1870,1,Absence of slavery,,whitman1937
+Nf12,Ponca,,43,-99,1850,1,Absence of slavery,,dorsey1897; howard1965b
+Nf13,Shawnee,,37,-85,1820,2,"Slavery, nonhereditary",,trowbridge1939
+Nf14,Caddo,,33,-93,NA,NA,Missing data,,
+Nf15,Kickapoo,,43,-90,1870,NA,Missing data,,
+Nf2,Ho Chunk,,44,-88,1850,1,Absence of slavery,,michelson1935; oestreich1948; radin1923
+Nf3,Omaha,,41,-96,1850,2,"Slavery, nonhereditary",,dorsey1884; fletcherandlaflesche1911; fortune1932a; mead1932b
+Nf4,Myaamia,,40,-86,1720,3,"Slavery, no info on heritability",,kinietz1940b; morgan1871
+Nf5,Wichita,,34,-98,1860,1,Absence of slavery,,curtis1930; dorsey1904a; schmitt1952; schmittandschmitt1953
+Nf6,Pawnee,,42,-100,1867,2,"Slavery, nonhereditary",,dorsey1904b; dorseyandmurie1940; lounsbury1956; weltfish1965
+Nf7,Fox,,45,-95,1830,3,"Slavery, no info on heritability",,joffe1940; linton1940; michelson1938; tax1937
+Nf8,Hasinai,,31,-95,1770,2,"Slavery, nonhereditary",,griffith1954; parson1941; spier1924; swanton1942b
+Nf9,Menominee,,46,-88,1870,3,"Slavery, no info on heritability",,hoffman1893; keesing1939; skinner1913; spindler1962
+Ng1,Huron,,44,-78,1640,1,Absence of slavery,,kinietz1940a; tooker1964; trigger1969
+Ng10,Seneca,,43,-77,1750,1,Absence of slavery,,fenton1940; goldenweiser191213; hunt1940; morgan1871; morgan1877; morgan1901; noon1949; quain1937
+Ng11,Yuchi,,35,-86,1750,1,Absence of slavery,,eggan1937a; speck1909; swanton1946
+Ng12,Choctaw,,33,-88,1760,1,Absence of slavery,,eggan1937a; swanton1931; swanton1946
+Ng13,Abenaki,,46,-70,NA,NA,Missing data,,
+Ng14,Chickasaw,,35,-85,NA,NA,Missing data,,
+Ng15,Chitimacha,,30,-90,1750,NA,Missing data,,
+Ng2,Seminole,,27,-81,1940,1,Absence of slavery,,spoehr1941; spoehr1942; spoehr1944
+Ng3,Muscogee,,33,-84,1750,1,Absence of slavery,,bartram1953; murdock1956; speck1907; swanton1928a; swanton1928c; swanton1946
+Ng4,Penobscot,,45,-68,1900,1,Absence of slavery,,speck1918; speck1940
+Ng5,Cherokee,,36,-83,1750,1,Absence of slavery,,gearing1962; gilbert1937; gilbert1943; swanton1946
+Ng6,Delaware,,41,-75,1700,1,Absence of slavery,,harrington1913; herman1950; newcomb1956; wallace1947a
+Ng7,Natchez,,32,-91,1700,NA,Missing data,,
+Ng8,Timucua,,27,-82,1560,NA,Missing data,,
+Ng9,Catawba,,35,-80,1920,1,Absence of slavery,,speckandschaeffer1942; sturtevant1965; swanton1946
+Nh1,Chiricahua,,31,-108,1880,1,Absence of slavery,,gifford1940; opler1936b; opler1936c; opler1937; opler1941; opler1971c
+Nh10,Isleta,,35,-107,1920,1,Absence of slavery,,parsons1932a; trager1943
+Nh11,San Ildefonso,,36,-106,1900,1,Absence of slavery,,dozier1954; dozier1961; parsons1929; robbinsetal1916; whitman1940
+Nh12,Santa Ana,,35,-107,1920,1,Absence of slavery,,gifford1940; white1942
+Nh13,Acoma,,35,-108,1920,1,Absence of slavery,,eggan1950; mickey1956; miller1959; white1932; white1943
+Nh14,Laguna,,35,-107,1920,1,Absence of slavery,,eggan1950; parson1923
+Nh15,Mescalero,,33,-103,1870,2,"Slavery, nonhereditary",,castetterandopler1936; flannery1932; gifford1940; opler1936a
+Nh16,Jicarilla,,36,-104,1870,1,Absence of slavery,,bellah1952; gifford1940; opler1936d; opler1946
+Nh17,Western Apache,,34,-110,1870,1,Absence of slavery,,gifford1940; goodwin1935; goodwin1942; kaut1957; lockwood1938; opler1941
+Nh18,Hopi,,36,-111,1920,1,Absence of slavery,,beaglehole1937; beagleholeandbeaglehole1935; dennis1940; eggan1950; hrdlicka1935; lowie1929; murdock1934n; simmons1942; titiev1944; voegelinandvoegelin1957
+Nh19,Cocopa,,32,-115,1850,2,"Slavery, nonhereditary",,drucker1941; gifford1933
+Nh2,Hano,,36,-111,1950,1,Absence of slavery,,dozier1954
+Nh20,Kamia,,33,-115,1860,NA,Missing data,,
+Nh21,Mojave,,35,-114,1850,2,"Slavery, nonhereditary",,devereaux1950; drucker1941; kroeber1902; kroeber1925i
+Nh22,Quechan,,33,-114,1860,NA,Missing data,,
+Nh23,Kewyipaya,,34,-111,1870,1,Absence of slavery,,gifford1932a
+Nh24,Lipan Apache,,30,-100,1880,1,Absence of slavery,,gifford1940; opler1936a
+Nh25,Sia,,36,-107,1920,1,Absence of slavery,,hawleyetal1943; stevenson1894; white1962
+Nh26,Santa Clara,,36,-106,1910,NA,Missing data,,
+Nh27,Kewa,,36,-105,1930,NA,Missing data,,
+Nh3,Navajo,,37,-110,1930,2,"Slavery, nonhereditary",,franciscanfathers1910; goldfrank1945b; hill1938; kluckhohn1947; kluckhohnandleighton1946; leightonandkluckhohn1947; reichard1928
+Nh4,Zuni,,35,-109,1910,1,Absence of slavery,,benedict1934:57-129; bunzel1930; bunzel1932; cushing1920; eggan1950; gifford1940; kroeber1917b; leightonandadair1966; parsons1919; roberts1956; robertsnd; smith1954b; stevenson1904; stevenson1909
+Nh5,Maricopa,,33,-113,1850,1,Absence of slavery,,drucker1941; spier1933
+Nh6,Taos,,37,-106,1890,1,Absence of slavery,,parsons1936b; trager1943
+Nh7,Cochiti,,36,-106,1890,1,Absence of slavery,,dumarest1919; goldfrank1927; parsons1932b
+Nh8,Jemez,,36,-107,1920,1,Absence of slavery,,hawley1964; parsons1925; parsons1932b
+Nh9,Picuris,,36,-106,1920,1,Absence of slavery,,parsons1939; trager1943
+Ni1,Tarahumara,,28,-107,1930,1,Absence of slavery,,bennettandzingg1935; passin1943
+Ni2,Tohono O'odham,,31,-112,1930,1,Absence of slavery,,castetterandbell1942; josephetal1949; lumholtz1912; underhill1936; underhill1939
+Ni3,Huichol,,22,-105,1920,1,Absence of slavery,,grimesandgrimes1962; grimesandhinton1969; klineberg1934; lumholtz1898; lumholtz1902; zingg1938
+Ni4,Seri,,29,-112,1900,1,Absence of slavery,,ascher1962; kroeber1931; mcgee1898
+Ni5,Chichimeca,,22,-100,1570,1,Absence of slavery,,driveranddriver1963
+Ni6,Pima,,31,-111,1840,1,Absence of slavery,,castetterandbell1942; drucker1941; parsons1928; russell1908
+Ni7,Yaqui,,28,-110,1870,1,Absence of slavery,,beals1943; drucker1941
+Ni8,Opata,,30,-110,1550,NA,Missing data,,
+Ni9,Tepehuán,,27,-107,1920,NA,Missing data,,
+Nj1,Chinantec,,18,-96,1940,1,Absence of slavery,,merrifield1959; weitlaner1951; weitlanerandcastroguevara1954
+Nj10,Zapotec,,17,-96,1940,1,Absence of slavery,,fuente1949; nader1964; parsons1936a
+Nj11,Huastec,,22,-99,NA,NA,Missing data,,
+Nj12,Mixtec,,18,-98,1950,NA,Missing data,,
+Nj13,Otomí,,20,-99,1900,NA,Missing data,,
+Nj14,Tequistlatec,,16,-96,1960,NA,Missing data,,
+Nj2,Aztec,,19,-99,1520,2,"Slavery, nonhereditary",,holtker1930; murdock1934b:359-402; prescott1922; sahagun195057; selersachs1919; soustelle1961; thompson1933; vaillant1941
+Nj3,Sierra Popoluca,,18,-95,1940,1,Absence of slavery,,foster1940; foster1942; foster1943; foster1945
+Nj4,Totonac,,20,-97,1940,3,"Slavery, no info on heritability",,kellyandpalerm1952; kriekenberg1918; palerm195253
+Nj5,Mazateco,,18,-97,1940,NA,Missing data,,
+Nj6,Huave,,16.22,-95.02,1950,1,Absence of slavery,,diebold1966
+Nj7,Mixe,,17,-95,1930,1,Absence of slavery,,beals1945
+Nj8,Tarasco,,19,-101,1500,NA,Missing data,,
+Nj9,Tlaxcalans,,19,-98,1960,1,Absence of slavery,,nutini1962; nutini1965
+Sa1,Guna,,9,-78,1940,3,"Slavery, no info on heritability",,depuydt1868; holloman1969; holmer1951; krieger1926; nordenskiold1938; stout1947; wafer1934
+Sa10,Lacandon,,16.9,-91,1900,1,Absence of slavery,,baerandbaer1949; tozzer1907
+Sa11,Kaqchikel,,14,-91,1880,4,"Slavery, hereditary",,stoll1889
+Sa12,Lenca,,14,-88,1948,1,Absence of slavery,,stone1948
+Sa13,K'iche',,15,-91,1930,4,"Slavery, hereditary",,bunzel1952; schultzejena1933
+Sa14,Ngäbe,,8,-81,NA,NA,Missing data,,
+Sa15,Jakaltek,,14,-90,1920,NA,Missing data,,
+Sa16,Tolupan,,15,-87,NA,NA,Missing data,,
+Sa17,Poqomam,,15,-91,1950,NA,Missing data,,
+Sa2,Tzeltal,,17,-92,1940,NA,Missing data,,
+Sa3,Ch'orti',,14,-89,1930,1,Absence of slavery,,wisdom1940
+Sa4,Emberá,,8,-78,1960,1,Absence of slavery,,faron1961a; faron1962; reicheldolmatoff1960; stout1948
+Sa5,Bribri,,9,-83,1950,1,Absence of slavery,,gabb1876; johnson1948; pittierdefabrega1938; skinner1920; stone1962
+Sa6,Yucatec Maya,,18,-90,1520,4,"Slavery, hereditary",,carrasco1967; chamberlain1951; gannandthompson1931; redfieldandvillarojas1934; roys1943; roys1951; roys1957; thompson1927; tozzer1941; vonhagen1957
+Sa7,Garifuna,,16,-89,1940,1,Absence of slavery,,solien1960a; solien1960b; taylor1951
+Sa8,Mam,,15,-92,1930,1,Absence of slavery,,wagley1941; wagley1949b
+Sa9,Miskito,,14.766,-84.089,1920,1,Absence of slavery,,conzemius1932; helms1969; helms1971; kirchhoff1948a; pijoan1946
+Sb1,Callinago,,15.41,-61.27,1650,4,"Slavery, hereditary",,bouton1640; breton1665; bretonanddelapaix1929; dutertre1667; hodgeandtaylor1957; rouse1948b; taylor1938; taylor1946; taylor1949
+Sb2,Cágaba,,11,-74,1940,1,Absence of slavery,,park1946; reicheldolmatoff194951
+Sb3,Barí (Motilon),,9,-72,1940,NA,Missing data,,
+Sb4,Cariña,,9,-64,1950,1,Absence of slavery,,schwein1963; schwerin1966; schwerin1967; wilbert1957a
+Sb5,Paraujano,,11,-72,1950,1,Absence of slavery,,jahn1914; wilbert1959c
+Sb6,Wayuu,,12,-72,1940,4,"Slavery, hereditary",,armstrongandmetraux1948; bolinder1957; gutierrezdepineda1948; pinedagiraldo1950; santacruz1941; santacruz1960; simons1885; watson1973; wilbert1962
+Sb7,Yupa,,9,-72,1950,1,Absence of slavery,,wilbert1961b
+Sb8,Taíno,,19.94,-75.37,1520,3,"Slavery, no info on heritability",,rouse1948a
+Sb9,Haitians,,18.41,-72.17,1930,4,"Slavery, hereditary",,bastien1951; courlander1960; herskovits1937b; leyburn1941; metraux1959; metraux1960; mintz1963; rawsonnd; romain1955; simpson1940a; simpson1943; underwood1960; underwoodandhonigmann1947
+Sc1,Warao,,9,-62,1950,1,Absence of slavery,,hill1956; kirchhoff1948b; moreno1945; suarez1968; wilbert1958b; wilbert1964
+Sc10,Lokono,,5.95,-56.98,1900,3,"Slavery, no info on heritability",,coll1903; geoje1910; kirchhoff1931; taylor1957
+Sc11,Camaracoto,,6,-63,1930,NA,Missing data,,
+Sc12,Macushi,,4,-59,1910,NA,Missing data,,
+Sc13,Panare,,6,-66,1950,1,Absence of slavery,,riley1954; wilbert1959a; wilbert1963
+Sc14,Rucuyen,,3,-55,1890,NA,Missing data,,
+Sc15,Taulípang,,4,-62,1910,3,"Slavery, no info on heritability",,kochgrunberg1923a; soaresdiniz1965; ule1913
+Sc16,Ye'kuana,,3,-65,1920,1,Absence of slavery,,barandiaran1962; kochgrunberg1923b; wilbert1958c; wilbert1963
+Sc17,Piapoco,,6,-68,1950,1,Absence of slavery,,wilbert1963
+Sc18,Ndyuka,,5,-54,1960,1,Absence of slavery,,geyskes1954; kobben1967a; kobben1967b; thodenvanvelzen1966; vanderkuyp1962
+Sc2,Pumé,,7,-68,1950,1,Absence of slavery,,leedsnd
+Sc3,Barama River Carib,,5,-59,1930,1,Absence of slavery,,gillin1936; gillin1948; gillinnd; roth1924
+Sc4,Guahibo,,5,-69,1950,1,Absence of slavery,,wilbert1957b; wilbert1963
+Sc5,Wapishana,,3,-60,1900,1,Absence of slavery,,farabee1918
+Sc6,Saramaccan ,,4,-56,1920,1,Absence of slavery,,herskovitsandherskovits1934; hurault1959; neumann1967; price1975
+Sc7,Yabarana,,5,-66,1950,1,Absence of slavery,,wilbert1959b
+Sc8,Piaroa,,5,-67,1950,1,Absence of slavery,,wilbert1958a; wilbert1963
+Sc9,Curripaco,,5,-67,1950,1,Absence of slavery,,wilbert1960a; wilbert1963
+Sd1,Munduruku,,-6,-58,1950,1,Absence of slavery,,frikel1959; kruse1937; martius186367; murphy1956; murphy1957; murphy1958; murphy1960; tocantins1877
+Sd2,Tapirapé,,-11,-52,1930,1,Absence of slavery,,wagley1943; wagleyandgalvao1948a
+Sd3,Palikur,,3,-52,1920,1,Absence of slavery,,nimuendaju1926
+Sd4,Guaica,,2,-65,1950,1,Absence of slavery,,barker1953; zerries1954
+Sd5,Sateré Mawé,,-4,-57,1950,1,Absence of slavery,,lecock1964; nimuendaju1948
+Sd6,Shiriana,,4,-63,1960,1,Absence of slavery,,migliazza1964
+Sd7,Wai-wai,,1,-59,1950,1,Absence of slavery,,fock1963
+Sd8,Sanema,,4,-66,1950,1,Absence of slavery,,wilbert1963
+Sd9,Yanomami,,2,-65,1965,1,Absence of slavery,,chagnon1967; chagnon1968a; chagnon1968b
+Se1,Sirionó,,-16,-64,1940,1,Absence of slavery,,holmberg1950
+Se10,Cocama,,1,-79,1670,2,"Slavery, nonhereditary",,espinosa1935; metraux1948b; tessmann1930
+Se11,Chácobo,,-12,-67,1960,1,Absence of slavery,,prost1965
+Se12,Tucano,,0,-70,1950,NA,Missing data,,
+Se2,Ticuna,,-3,-70,1940,1,Absence of slavery,,leeds1961; nimenuendaju1952
+Se3,Shuar,,-3,-78,1930,1,Absence of slavery,,harner1960; harner1962; karsten1935; rivet190708; stirling1938; updegraff1923
+Se4,Yagua,,-3,-72,1940,1,Absence of slavery,,fejos1943
+Se5,Cubeo,,1,-71,1940,4,"Slavery, hereditary",,goldman1948; goldman1963
+Se6,Witoto,,-1,-74,1910,2,"Slavery, nonhereditary",,murdock1936b; tessmann1930; whitten1915
+Se7,Camba,,-18,-63,1950,1,Absence of slavery,,heath1959
+Se8,Amahuaca,,-10,-72,1950,1,Absence of slavery,,carneiro1962; carneiro1964a; carneiro1964b; carneiro1968; dole1961; dole1962; huxley1964; tessmann1930
+Se9,Shipibo-Conibo,,-9,-74,1920,2,"Slavery, nonhereditary",,stcricq1853; stewardandmetraux1948a
+Sf1,Inca,,-13,-72,1530,1,Absence of slavery,,baudin1961; baudin1962; brundage1963; ciezadeleon1554; cobo189095; mason1957; means1931; metraux1969; molima1915; murdock1934b:403-450; rowe1946
+Sf2,Aymara,,-16,-69,1940,1,Absence of slavery,,bouronclecarreon1964; labarre1948; tschopik1946; tschopik1951
+Sf3,Chachi,,1,-79,1910,1,Absence of slavery,,altschuler1965a; altschuler1965b; altschuler1971; barrett1925; heimann1932; murra1948
+Sf4,U'wa,,7,-72,1950,NA,Missing data,,
+Sf5,Páez,,3,-76,1900,1,Absence of slavery,,bernalvilla1954; pittierdefabrega1907
+Sf6,Muisca,,5,-72,1540,3,"Slavery, no info on heritability",,ghisletti1954; kroeber1946; restrepo1895
+Sf7,Asháninka,,-8,-75,1900,1,Absence of slavery,,caldwellandcalhoun1932; craig1967; nordenskiold1924; stewardandmetraux1948b
+Sf8,Piro,,-12,-73,1950,NA,Missing data,,
+Sf9,Uru,,-16,-69,1930,NA,Missing data,,
+Sg1,Yahgan,,-55.02,-68.98,1870,1,Absence of slavery,,cooper1917; cooper1946a; gusinde1937b
+Sg2,Mapuche,,-39,-68,1880,2,"Slavery, nonhereditary",,faron1961b; faron1964; faron1968; hilger1957; nutini1972; titiev1951
+Sg3,Ona,,-54,-69,1880,1,Absence of slavery,,baerandschmitz1964; bridges1949; gallardo1910; gusinde1931a; gusinde1931a; lothrop1928; lowie1948; steward1949
+Sg4,Tehuelche,,-46,-70,1870,2,"Slavery, nonhereditary",,bourne1874; cooper1946c; musters1871; musters1972; viedma1837
+Sg5,Alacaluf,,-52,-74,1900,1,Absence of slavery,,bird1946; cooper1917
+Sh1,Wichí,,-24,-63,1860,1,Absence of slavery,,karsten1932; pelleschi1896
+Sh2,Terena,,-21,-58,1850,4,"Slavery, hereditary",,oberg1948a; oberg1949
+Sh3,Abipón,,-29,-61,1800,4,"Slavery, hereditary",,dobrizhoffer1822; metraux1946chaco
+Sh4,Kadiwéu,,-22,-57,1940,3,"Slavery, no info on heritability",,oberg1949
+Sh5,Choroti,,-22,-62,1910,1,Absence of slavery,,karsten1932; nordenskiold1919; rosen1924a
+Sh6,Chamacoco,,-20,-59,1890,3,"Slavery, no info on heritability",,baldus1931; boggiani1894
+Sh7,Guaraní,,-20,-63,1900,NA,Missing data,,
+Sh8,Toba,,-25,-60,1964,1,Absence of slavery,,karsten1932; metraux1937; miller1965; miller1966; niklison1916; palavecino1955
+Sh9,Lengua,,-23,-59,1890,1,Absence of slavery,,baldus1931; grubb1911; hawtrey1901; metraux1946chaco
+Si1,Bororo,,-16,-55,1920,1,Absence of slavery,,fricandradin1906; levistrauss1936; oberg1953:1-144; steinen1894
+Si10,Kuikuru,,-13,-54,1950,1,Absence of slavery,,carneiro1958; carneiroanddole1957; dole1958
+Si2,Trumai,,-12,-53,1930,2,"Slavery, nonhereditary",,levistrauss1948c; murphyandquain1955
+Si3,Bacairi,,-14,-55,1940,1,Absence of slavery,,oberg1948b; oberg1953:1-144; steinen1892
+Si4,Nambikwara,,-12,-59,1940,1,Absence of slavery,,levistrauss1944; levistrauss1948a; levistrauss1948b; levistrauss1955:235-310; oberg1953:82-105; roquettepinto1935
+Si5,Kamayurá,,-12,-54,1940,1,Absence of slavery,,oberg1953:1-144
+Si6,Guató,,-19,-58,1900,1,Absence of slavery,,schmidt1905; schmidt1942
+Si7,Paresi,,-15,-58,1910,2,"Slavery, nonhereditary",,metraux1948a; schmidt1914
+Si8,Umotina,,-15,-57,1940,1,Absence of slavery,,oberg1953:1-144
+Si9,Aweti,,-12,-54,1940,NA,Missing data,,
+Sj1,Carajá,,-12,-50,1950,2,"Slavery, nonhereditary",,dietschy1962; dietschynd; ehrenreich1891; krause1911; lipkind1948
+Sj10,Cayua,,-26,-54,1950,NA,Missing data,,
+Sj11,Shavante,,-14,-52,1958,1,Absence of slavery,,mayburylewis1967; nimuendaji1942
+Sj2,Sherente,,-9,-48,1850,1,Absence of slavery,,nimuendaju1942
+Sj3,Aweikoma,,-28,-50,1910,1,Absence of slavery,,henry1941; metraux1946caingang; paula1924
+Sj4,Canela,,-7,-45,1930,1,Absence of slavery,,arnaud1964; crocker1961; kissenberth1912; lowie1946; nimuendaju1946; snethlage1930
+Sj5,Aimoré,,-18,-42,1880,1,Absence of slavery,,ehrenreich1887; keane1883; metraux1946botocudo; sainthilaire193033; wiedneuwied182021
+Sj6,Tenetehara,,-3,-46,1930,1,Absence of slavery,,snethlage1930; wagley1949a; wagleyandgalvao1948b
+Sj7,Apinaye,,-6,-49,1920,1,Absence of slavery,,mayburylewis1960; nimuendaju1939
+Sj8,Tupinambá,,-8,-35,1600,2,"Slavery, nonhereditary",,abbeville1614; cardim1906; devreux1864; lery1880; lery1906; magalhaesdegandavo1922; metraux1948c; soaresdesouza1851; staden1928; thevet1878
+Sj9,Kayapo,,-8,-52,1950,1,Absence of slavery,,dreyfus1963; krause1911; soatesdiniz1962
+ch12,Bashkir,,54,56,1899,1,Absence of slavery,,bikbulatov1964; bikbulatov1980; bikbulatov1980a; bikbulatov1981; bikbulatovandkuzeev1976; bikbulatovandpimenov1998; janguzin1987; karlov1990; kazantsev1866; kinkov1927; kozlova1964; kozlova1982; maksimov1997a; maksimov1997b; nazarov1890; nikolskij1899; rudenko1925; rudenko1953; shakirova1988; tolstov1964; vangennep1960
+ch13,Besermyan,,58,52,1894,1,Absence of slavery,,miheev1901; popova1992; shkljaev1997; stejnfeld1894; vladykinandpanova1998
+ch14,Chuvash,,57,53,1908,1,Absence of slavery,,aleksandrov1899; denisova1984; fuks1840; guzenkovaandivanov1998; jagafova1998; karlov1990; komissarov1911; kozlova1964; kozlova1982; maksimov1997a; maksimov1997b; mihajlov1882; nikolskij1908; rittih1870; sboevnd; semenov1900b; skvortsov2001; tolstov1964; vorobevandromanov195670
+ch15,Erzya Mordvins,,53,50,1895,1,Absence of slavery,,balashov1995; belitserandkotkova1963; fedjanovich1997; jurchenkov1995; karlov1990; kozlov1981; kozlova1964; kozlova1982; majnov1885; maksimov1997a; maksimov1997b; markelov1928; melnikov1981; mokshin1990; mokshinandfedjanovich1998; petruhinandhelimskij1982; serkina2002; smimov1895; tolstov1964; tumajkin1974
+ch16,Estonians,,59,26,1908,1,Absence of slavery,,aleksandrovandshlygina1971; feoktistova1980; karlov1990; kozlova1982; luts1959; rejsner1916; sedov1987; tijk1977; tolstov1964; viaari1953; vulfson1908; wiedemann1876
+ch17,Gagauz,,45.44,29.32,1894,1,Absence of slavery,,guboglo1998; moshkov1900; semenov1900c; tolstov1964
+ch18,Ingrians,,59,29,1927,1,Absence of slavery,,keppen1853; kiuru1993; konkova1995; laanest1974; sedov1987; semenov1900a; shlygina1998a; sjogren1833; tolstov1964; ushakov1990; uspenskij1845; zolotarev1927
+ch19,Karelians,,64,33,1874,1,Absence of slavery,,cheremin1909; efimenko1877; kiuru1993b; klementev1983; klementev1998; kochkurkina1986; kozlova1982; lennrot1985; majnov1877; maksimov1997c; malmi1987; nikolskaja1976; semenov1900a; surhasko1977; surhasko1985; taroeva1965; tolstov1964; zherbin1983
+ch20,Kazan tatar,,55,50,1910,1,Absence of slavery,,ahmarov1907; ishakovetal1998; karlov1990; kozlova1964; kozlova1982; maksimov1997a; maksimov1997b; pinegin1891; putsykovich1900; ramazanova1991; rittih1870; speranskij1914; suharev1904; vorobev1953; vorobevandhisamutdinov1967; znamenskij1910
+ch21,Latvians,,57,24,1881,1,Absence of slavery,,aleksandrov1900a; aleksandrovandshlygina1971; anonymous1869; cheshihinvetrinskijv1901; efremova1982; karlov1990; kozlova1982; novoselov1911; rejsner1916; sedov1987; shtraus1994; tolstov1964; trejland1881; volter1890
+ch22,Lithuanian Karaim,,55,23,1895,1,Absence of slavery,,eljashevish1994; firkovich1969; hafuz1994; kefeli1992; maciuika1955; muhlinskij1862; muhlinskij1902; shapshal1995; tuhanbaranowski1896; vjartsinkjavjachus1989
+ch23,Lithuanian Tatar,,55,24,1905,1,Absence of slavery,,grishin1995; ishakovetal1998; muhlinskij1902; shimelevich1905; tuhanbaranowski1896
+ch24,Livs,,57,23,1847,1,Absence of slavery,,beitipa1995; hillner1847; koppen1847; sjogren1847; sjogren1849; sjogren1855; tolstov1964; videman1870
+ch25,Moldovans,,47,29,1900,1,Absence of slavery,,aleksandrov1900b; kantemir1973; karlov1990; kozlova1982; pljusnin1899; postolaki1987; salmanovich1947; semenov1900c; tolstov1964; zashchuk1859
+ch26,Udmurt,,57,53,1890,1,Absence of slavery,,buch1882; busyginandzorin1984; dolganovaetal1995; fedjanovich1997; haruzina1898; hristoljubova1981; ivanova1999; karlov1990; kozlova1964; kozlova1982; majer1985; maksimov1997a; maksimov1997b; petruhinandhelimskij1982; pimenov1993; rittih1870; shkljaev1992; simchenko1990; smimov1890; tolstov1964; vasilev1902; vereshchagin1886; vereshchagin1889; vladykinandhristoljubova1984; vladykinandhristoljubova1985; vladykinandhristoljubova1997; vladykinandhristoljubova1998
+ch27,Veps,,61,35,1900,1,Absence of slavery,,borisova1924; etoeva1977; kozlova1982; makarev1929; makarev1932; malinovskaja1930; morev1924; pimenov1965; ravdonikas1926; sedov1987; semenov1900a; tolstov1964; ushakov1990
+ch28,Votes,,59,29,1900,1,Absence of slavery,,jazykov1840; keppen1851; konkova1996; sedov1987; semenov1900a; shlygina1998b; sjogren1833; tolstov1964; uspenskij1845
+ec12,Nganasan,,72,90,1930,1,Absence of slavery,,afanaseva1990; fainberg1962; gracheva1983; gracheva1988; gracheva1994; pevgova1939; popov1948; popov1984; simchenko1963; simchenko1974; simchenko1976
+ec13,Itelmen,,54.98,161.79,1710,2,"Slavery, nonhereditary",,krasheninnikov1994; kreinovich1973; orlova1999; steller1999
+ec14,Ungazikmit,,64,-173,1880,2,"Slavery, nonhereditary",,chlenov1973; krupnik1983b; lopulenko1980; menovshchikov1961
+ec15,Mansi,,63,62,1880,1,Absence of slavery,,duningorkavich1904; korikov1898; nosilov1904; novikova1994; pavlovskij1907; pevgova1939; rombandeevaandkuzakova2000; sokolova1974; sokolova1983; sokolova1991
+ec16,Evenk,,55,112,1890,1,Absence of slavery,,karlov1982; kudrin1988; mazin1992; shirologoroff1933; sokolova1962; tugolukov1962; tugolukov1985; varlamov1997; vasilevich1962; vasilevich1969
+ec17,Negidal,,52,134,1890,1,Absence of slavery,,gapanovich1927; levinandpotapov1956:776-780; shternberg1933a
+ec18,Ulch,,50,136,1890,2,"Slavery, nonhereditary",,ivashchenko1994; levinandpotapov1956:817-824; smoljak1966; sunik1985
+ec19,Orok,,54.01,142.71,1890,1,Absence of slavery,,levinandpotapov1956:857-859; petrova1969; shternberg1933a; smoljak1994
+ec20,Oroch,,51,138,1890,1,Absence of slavery,,iochelson1908; larkin1964; levinandpotapov1956:845-849; lopatin1925; shternberg1933a; smoljak1994; turaev2001
+ec21,Udihe,,47,136,1890,1,Absence of slavery,,arsenev1926; girfanova2000; ivashchenko1989; kormushin1998; larkin1958; levinandpotapov1956; startsev2000

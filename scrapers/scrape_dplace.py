@@ -10,6 +10,7 @@ Output: dplace_EA029.csv
 
 import csv
 import io
+import os
 import sys
 import requests
 
@@ -18,8 +19,8 @@ SOCIETIES_URL = f"{GITHUB_BASE}/societies.csv"
 CODES_URL     = f"{GITHUB_BASE}/codes.csv"
 DATA_URL      = f"{GITHUB_BASE}/data.csv"
 
-TARGET_VAR  = "EA029"
-OUTPUT_FILE = "dplace_EA029.csv"
+TARGET_VAR  = sys.argv[1].upper() if len(sys.argv) > 1 else "EA029"
+OUTPUT_FILE = os.path.join("outputs", "dplace", f"dplace_{TARGET_VAR}.csv")
 
 
 def fetch_small(url: str) -> list[dict]:
@@ -98,6 +99,8 @@ def main():
     print(f"  data.csv society ID column = '{data_soc_col}'")
 
     # 5. Write output CSV
+    code_col  = f"{TARGET_VAR}_code"
+    label_col = f"{TARGET_VAR}_label"
     out_cols = [
         "society_id",
         "society_name",
@@ -105,12 +108,13 @@ def main():
         "lat",
         "lon",
         "focal_year",
-        "EA029_code",
-        "EA029_label",
+        code_col,
+        label_col,
         "comment",
         "references",
     ]
 
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=out_cols)
         writer.writeheader()
@@ -123,12 +127,12 @@ def main():
             writer.writerow({
                 "society_id":   sid,
                 "society_name": soc.get("pref_name_for_society", ""),
-                "region":       soc.get("region", ""),          # may be absent
+                "region":       soc.get("region", ""),
                 "lat":          soc.get("Lat", ""),
                 "lon":          soc.get("Long", ""),
                 "focal_year":   soc.get("main_focal_year", ""),
-                "EA029_code":   code,
-                "EA029_label":  codes.get(code, ""),
+                code_col:       code,
+                label_col:      codes.get(code, ""),
                 "comment":      row.get("comment", ""),
                 "references":   row.get("references", ""),
             })
